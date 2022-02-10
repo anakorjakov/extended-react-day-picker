@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdaypickersingle",
+  "id": "api/functions/isdaypickersingle",
+  "isDocsHomePage": false,
+  "title": "Function: isDayPickerSingle",
+  "description": "▸ isDayPickerSingle(props): props is DayPickerSingle",
+  "source": "@site/docs/api/functions/isdaypickersingle.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdaypickersingle",
+  "permalink": "/api/functions/isdaypickersingle",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDayPickerSingle",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdaypickersingle",
+    "title": "Function: isDayPickerSingle",
+    "sidebar_label": "isDayPickerSingle",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDayPickerRange",
+    "permalink": "/api/functions/isdaypickerrange"
+  },
+  "next": {
+    "title": "Function: isDayPickerUncontrolled",
+    "permalink": "/api/functions/isdaypickeruncontrolled"
+  }
+}

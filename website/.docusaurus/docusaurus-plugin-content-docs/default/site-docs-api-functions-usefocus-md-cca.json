@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/usefocus",
+  "id": "api/functions/usefocus",
+  "isDocsHomePage": false,
+  "title": "Function: useFocus",
+  "description": "▸ useFocus(): FocusContextValue",
+  "source": "@site/docs/api/functions/usefocus.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/usefocus",
+  "permalink": "/api/functions/usefocus",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useFocus",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "usefocus",
+    "title": "Function: useFocus",
+    "sidebar_label": "useFocus",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useDayPicker",
+    "permalink": "/api/functions/usedaypicker"
+  },
+  "next": {
+    "title": "Function: useInput",
+    "permalink": "/api/functions/useinput"
+  }
+}

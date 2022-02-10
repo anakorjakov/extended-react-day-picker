@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/yearsdropdown",
+  "id": "api/functions/yearsdropdown",
+  "isDocsHomePage": false,
+  "title": "Function: YearsDropdown",
+  "description": "▸ YearsDropdown(props): JSX.Element",
+  "source": "@site/docs/api/functions/yearsdropdown.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/yearsdropdown",
+  "permalink": "/api/functions/yearsdropdown",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "YearsDropdown",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "yearsdropdown",
+    "title": "Function: YearsDropdown",
+    "sidebar_label": "YearsDropdown",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: WeekNumber",
+    "permalink": "/api/functions/weeknumber"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/changelog"
+  }
+}

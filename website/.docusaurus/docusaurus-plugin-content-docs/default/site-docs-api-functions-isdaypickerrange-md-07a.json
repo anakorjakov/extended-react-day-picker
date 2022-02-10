@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdaypickerrange",
+  "id": "api/functions/isdaypickerrange",
+  "isDocsHomePage": false,
+  "title": "Function: isDayPickerRange",
+  "description": "▸ isDayPickerRange(props): props is DayPickerRange",
+  "source": "@site/docs/api/functions/isdaypickerrange.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdaypickerrange",
+  "permalink": "/api/functions/isdaypickerrange",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDayPickerRange",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdaypickerrange",
+    "title": "Function: isDayPickerRange",
+    "sidebar_label": "isDayPickerRange",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDayPickerMultiple",
+    "permalink": "/api/functions/isdaypickermultiple"
+  },
+  "next": {
+    "title": "Function: isDayPickerSingle",
+    "permalink": "/api/functions/isdaypickersingle"
+  }
+}

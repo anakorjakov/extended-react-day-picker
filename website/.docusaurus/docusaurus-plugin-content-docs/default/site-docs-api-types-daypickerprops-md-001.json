@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daypickerprops",
+  "id": "api/types/daypickerprops",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayPickerProps",
+  "description": "Ƭ DayPickerProps: DayPickerBase & DayPickerSelectionProps",
+  "source": "@site/docs/api/types/daypickerprops.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daypickerprops",
+  "permalink": "/api/types/daypickerprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickerprops",
+    "title": "Type alias: DayPickerProps",
+    "sidebar_label": "DayPickerProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayOfWeek",
+    "permalink": "/api/types/dayofweek"
+  },
+  "next": {
+    "title": "Type alias: DayPickerSelectionProps",
+    "permalink": "/api/types/daypickerselectionprops"
+  }
+}

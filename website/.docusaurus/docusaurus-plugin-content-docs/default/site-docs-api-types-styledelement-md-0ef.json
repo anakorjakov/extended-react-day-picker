@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/styledelement",
+  "id": "api/types/styledelement",
+  "isDocsHomePage": false,
+  "title": "Type alias: StyledElement<T>",
+  "description": "Ƭ StyledElement: Object",
+  "source": "@site/docs/api/types/styledelement.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/styledelement",
+  "permalink": "/api/types/styledelement",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "StyledElement",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "styledelement",
+    "title": "Type alias: StyledElement<T>",
+    "sidebar_label": "StyledElement",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: StyledComponentProps",
+    "permalink": "/api/types/styledcomponentprops"
+  },
+  "next": {
+    "title": "Type alias: Styles",
+    "permalink": "/api/types/styles"
+  }
+}

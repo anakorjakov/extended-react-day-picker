@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/useday",
+  "id": "api/types/useday",
+  "isDocsHomePage": false,
+  "title": "Type alias: UseDay",
+  "description": "Ƭ UseDay: Object",
+  "source": "@site/docs/api/types/useday.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/useday",
+  "permalink": "/api/types/useday",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "UseDay",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useday",
+    "title": "Type alias: UseDay",
+    "sidebar_label": "UseDay",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: Styles",
+    "permalink": "/api/types/styles"
+  },
+  "next": {
+    "title": "Type alias: WeekdayLabelFormatter",
+    "permalink": "/api/types/weekdaylabelformatter"
+  }
+}

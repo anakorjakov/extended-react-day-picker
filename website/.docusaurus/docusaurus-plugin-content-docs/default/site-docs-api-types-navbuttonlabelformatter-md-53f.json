@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/navbuttonlabelformatter",
+  "id": "api/types/navbuttonlabelformatter",
+  "isDocsHomePage": false,
+  "title": "Type alias: NavButtonLabelFormatter",
+  "description": "Ƭ NavButtonLabelFormatter Date, options? Locale  }) => string",
+  "source": "@site/docs/api/types/navbuttonlabelformatter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/navbuttonlabelformatter",
+  "permalink": "/api/types/navbuttonlabelformatter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "NavButtonLabelFormatter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "navbuttonlabelformatter",
+    "title": "Type alias: NavButtonLabelFormatter",
+    "sidebar_label": "NavButtonLabelFormatter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: MonthChangeEventHandler",
+    "permalink": "/api/types/monthchangeeventhandler"
+  },
+  "next": {
+    "title": "Type alias: SelectMultipleEventHandler",
+    "permalink": "/api/types/selectmultipleeventhandler"
+  }
+}

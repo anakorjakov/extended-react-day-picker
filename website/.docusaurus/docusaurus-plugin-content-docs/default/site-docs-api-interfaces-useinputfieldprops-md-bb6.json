@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/useinputfieldprops",
+  "id": "api/interfaces/useinputfieldprops",
+  "isDocsHomePage": false,
+  "title": "Interface: UseInputFieldProps",
+  "description": "Represent the props to attach to the input field.",
+  "source": "@site/docs/api/interfaces/useinputfieldprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/useinputfieldprops",
+  "permalink": "/api/interfaces/useinputfieldprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "UseInputFieldProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useinputfieldprops",
+    "title": "Interface: UseInputFieldProps",
+    "sidebar_label": "UseInputFieldProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: UseInputDayPickerProps",
+    "permalink": "/api/interfaces/useinputdaypickerprops"
+  },
+  "next": {
+    "title": "Interface: UseInputOptions",
+    "permalink": "/api/interfaces/useinputoptions"
+  }
+}

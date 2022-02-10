@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/captionlabelprops",
+  "id": "api/interfaces/captionlabelprops",
+  "isDocsHomePage": false,
+  "title": "Interface: CaptionLabelProps",
+  "description": "The props for the CaptionLabel component.",
+  "source": "@site/docs/api/interfaces/captionlabelprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/captionlabelprops",
+  "permalink": "/api/interfaces/captionlabelprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "CaptionLabelProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "captionlabelprops",
+    "title": "Interface: CaptionLabelProps",
+    "sidebar_label": "CaptionLabelProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "API Reference",
+    "permalink": "/api"
+  },
+  "next": {
+    "title": "Interface: CaptionProps",
+    "permalink": "/api/interfaces/captionprops"
+  }
+}

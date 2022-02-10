@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/weeknumberformatter",
+  "id": "api/types/weeknumberformatter",
+  "isDocsHomePage": false,
+  "title": "Type alias: WeekNumberFormatter",
+  "description": "Ƭ WeekNumberFormatter number, options? Locale  }) => React.ReactNode",
+  "source": "@site/docs/api/types/weeknumberformatter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/weeknumberformatter",
+  "permalink": "/api/types/weeknumberformatter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "WeekNumberFormatter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "weeknumberformatter",
+    "title": "Type alias: WeekNumberFormatter",
+    "sidebar_label": "WeekNumberFormatter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: WeekNumberClickEventHandler",
+    "permalink": "/api/types/weeknumberclickeventhandler"
+  },
+  "next": {
+    "title": "Type alias: WeekNumberLabelFormatter",
+    "permalink": "/api/types/weeknumberlabelformatter"
+  }
+}

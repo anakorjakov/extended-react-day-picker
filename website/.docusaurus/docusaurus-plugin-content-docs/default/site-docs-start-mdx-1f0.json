@@ -1,0 +1,26 @@
+{
+  "unversionedId": "start",
+  "id": "start",
+  "isDocsHomePage": false,
+  "title": "Get Started",
+  "description": "To start using DayPicker in your project add react-day-picker to your dependencies:",
+  "source": "@site/docs/start.mdx",
+  "sourceDirName": ".",
+  "slug": "/start",
+  "permalink": "/start",
+  "version": "current",
+  "frontMatter": {
+    "id": "start",
+    "title": "Get Started",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Navigating Months",
+    "permalink": "/basics/navigation"
+  }
+}

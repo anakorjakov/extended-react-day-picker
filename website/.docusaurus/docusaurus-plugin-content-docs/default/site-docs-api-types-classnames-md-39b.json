@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/classnames",
+  "id": "api/types/classnames",
+  "isDocsHomePage": false,
+  "title": "Type alias: ClassNames",
+  "description": "Ƭ ClassNames: Partial\\>",
+  "source": "@site/docs/api/types/classnames.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/classnames",
+  "permalink": "/api/types/classnames",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "ClassNames",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "classnames",
+    "title": "Type alias: ClassNames",
+    "sidebar_label": "ClassNames",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: CaptionLayout",
+    "permalink": "/api/types/captionlayout"
+  },
+  "next": {
+    "title": "Type alias: ContextProviderProps",
+    "permalink": "/api/types/contextproviderprops"
+  }
+}

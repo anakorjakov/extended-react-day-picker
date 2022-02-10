@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdaypickeruncontrolled",
+  "id": "api/functions/isdaypickeruncontrolled",
+  "isDocsHomePage": false,
+  "title": "Function: isDayPickerUncontrolled",
+  "description": "▸ isDayPickerUncontrolled(props): props is DayPickerUncontrolled",
+  "source": "@site/docs/api/functions/isdaypickeruncontrolled.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdaypickeruncontrolled",
+  "permalink": "/api/functions/isdaypickeruncontrolled",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDayPickerUncontrolled",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdaypickeruncontrolled",
+    "title": "Function: isDayPickerUncontrolled",
+    "sidebar_label": "isDayPickerUncontrolled",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDayPickerSingle",
+    "permalink": "/api/functions/isdaypickersingle"
+  },
+  "next": {
+    "title": "Function: MonthsDropdown",
+    "permalink": "/api/functions/monthsdropdown"
+  }
+}

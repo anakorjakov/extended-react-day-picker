@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/formatters",
+  "id": "api/types/formatters",
+  "isDocsHomePage": false,
+  "title": "Type alias: Formatters",
+  "description": "Ƭ Formatters: Object",
+  "source": "@site/docs/api/types/formatters.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/formatters",
+  "permalink": "/api/types/formatters",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Formatters",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "formatters",
+    "title": "Type alias: Formatters",
+    "sidebar_label": "Formatters",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: FocusContextValue",
+    "permalink": "/api/types/focuscontextvalue"
+  },
+  "next": {
+    "title": "Type alias: InternalModifier",
+    "permalink": "/api/types/internalmodifier"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/custommodifiers",
+  "id": "api/types/custommodifiers",
+  "isDocsHomePage": false,
+  "title": "Type alias: CustomModifiers",
+  "description": "Ƭ CustomModifiers: Record",
+  "source": "@site/docs/api/types/custommodifiers.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/custommodifiers",
+  "permalink": "/api/types/custommodifiers",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "CustomModifiers",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "custommodifiers",
+    "title": "Type alias: CustomModifiers",
+    "sidebar_label": "CustomModifiers",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: ContextProviderProps",
+    "permalink": "/api/types/contextproviderprops"
+  },
+  "next": {
+    "title": "Type alias: DateAfter",
+    "permalink": "/api/types/dateafter"
+  }
+}

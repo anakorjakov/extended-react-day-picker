@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/day",
+  "id": "api/functions/day",
+  "isDocsHomePage": false,
+  "title": "Function: Day",
+  "description": "▸ Day(props): JSX.Element",
+  "source": "@site/docs/api/functions/day.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/day",
+  "permalink": "/api/functions/day",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Day",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "day",
+    "title": "Function: Day",
+    "sidebar_label": "Day",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: ContextProvider",
+    "permalink": "/api/functions/contextprovider"
+  },
+  "next": {
+    "title": "Function: DayContent",
+    "permalink": "/api/functions/daycontent"
+  }
+}

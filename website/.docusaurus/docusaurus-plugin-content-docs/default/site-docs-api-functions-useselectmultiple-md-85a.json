@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/useselectmultiple",
+  "id": "api/functions/useselectmultiple",
+  "isDocsHomePage": false,
+  "title": "Function: useSelectMultiple",
+  "description": "▸ useSelectMultiple(): SelectMultipleContextValue",
+  "source": "@site/docs/api/functions/useselectmultiple.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/useselectmultiple",
+  "permalink": "/api/functions/useselectmultiple",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useSelectMultiple",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useselectmultiple",
+    "title": "Function: useSelectMultiple",
+    "sidebar_label": "useSelectMultiple",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useNavigation",
+    "permalink": "/api/functions/usenavigation"
+  },
+  "next": {
+    "title": "Function: useSelectRange",
+    "permalink": "/api/functions/useselectrange"
+  }
+}

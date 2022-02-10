@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/useinputoptions",
+  "id": "api/interfaces/useinputoptions",
+  "isDocsHomePage": false,
+  "title": "Interface: UseInputOptions",
+  "description": "Properties",
+  "source": "@site/docs/api/interfaces/useinputoptions.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/useinputoptions",
+  "permalink": "/api/interfaces/useinputoptions",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "UseInputOptions",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useinputoptions",
+    "title": "Interface: UseInputOptions",
+    "sidebar_label": "UseInputOptions",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: UseInputFieldProps",
+    "permalink": "/api/interfaces/useinputfieldprops"
+  },
+  "next": {
+    "title": "Interface: WeekNumberProps",
+    "permalink": "/api/interfaces/weeknumberprops"
+  }
+}

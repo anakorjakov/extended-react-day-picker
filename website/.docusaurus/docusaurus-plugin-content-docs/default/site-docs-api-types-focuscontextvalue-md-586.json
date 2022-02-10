@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/focuscontextvalue",
+  "id": "api/types/focuscontextvalue",
+  "isDocsHomePage": false,
+  "title": "Type alias: FocusContextValue",
+  "description": "Ƭ FocusContextValue Date \\| undefined, setters: object]",
+  "source": "@site/docs/api/types/focuscontextvalue.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/focuscontextvalue",
+  "permalink": "/api/types/focuscontextvalue",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "FocusContextValue",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "focuscontextvalue",
+    "title": "Type alias: FocusContextValue",
+    "sidebar_label": "FocusContextValue",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayTouchEventHandler",
+    "permalink": "/api/types/daytoucheventhandler"
+  },
+  "next": {
+    "title": "Type alias: Formatters",
+    "permalink": "/api/types/formatters"
+  }
+}

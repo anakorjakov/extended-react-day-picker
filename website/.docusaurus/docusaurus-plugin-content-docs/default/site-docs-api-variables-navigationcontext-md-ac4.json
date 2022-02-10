@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/variables/navigationcontext",
+  "id": "api/variables/navigationcontext",
+  "isDocsHomePage": false,
+  "title": "Variable: NavigationContext",
+  "description": "• Const NavigationContext: Context",
+  "source": "@site/docs/api/variables/navigationcontext.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/navigationcontext",
+  "permalink": "/api/variables/navigationcontext",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "NavigationContext",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "navigationcontext",
+    "title": "Variable: NavigationContext",
+    "sidebar_label": "NavigationContext",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Variable: FocusContext",
+    "permalink": "/api/variables/focuscontext"
+  },
+  "next": {
+    "title": "Variable: SelectMultipleContext",
+    "permalink": "/api/variables/selectmultiplecontext"
+  }
+}

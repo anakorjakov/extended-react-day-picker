@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/dayfocuseventhandler",
+  "id": "api/types/dayfocuseventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayFocusEventHandler",
+  "description": "Ƭ DayFocusEventHandler Date, modifiers React.FocusEvent \\| React.KeyboardEvent) => void",
+  "source": "@site/docs/api/types/dayfocuseventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/dayfocuseventhandler",
+  "permalink": "/api/types/dayfocuseventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayFocusEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dayfocuseventhandler",
+    "title": "Type alias: DayFocusEventHandler",
+    "sidebar_label": "DayFocusEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayClickEventHandler",
+    "permalink": "/api/types/dayclickeventhandler"
+  },
+  "next": {
+    "title": "Type alias: DayKeyboardEventHandler",
+    "permalink": "/api/types/daykeyboardeventhandler"
+  }
+}

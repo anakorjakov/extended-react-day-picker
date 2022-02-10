@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/iconprevious",
+  "id": "api/functions/iconprevious",
+  "isDocsHomePage": false,
+  "title": "Function: IconPrevious",
+  "description": "▸ IconPrevious(props): JSX.Element",
+  "source": "@site/docs/api/functions/iconprevious.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/iconprevious",
+  "permalink": "/api/functions/iconprevious",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "IconPrevious",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "iconprevious",
+    "title": "Function: IconPrevious",
+    "sidebar_label": "IconPrevious",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: IconNext",
+    "permalink": "/api/functions/iconnext"
+  },
+  "next": {
+    "title": "Function: isArrayOfDates",
+    "permalink": "/api/functions/isarrayofdates"
+  }
+}

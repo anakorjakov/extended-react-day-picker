@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isarrayofdates",
+  "id": "api/functions/isarrayofdates",
+  "isDocsHomePage": false,
+  "title": "Function: isArrayOfDates",
+  "description": "▸ isArrayOfDates(value): value is Date[]",
+  "source": "@site/docs/api/functions/isarrayofdates.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isarrayofdates",
+  "permalink": "/api/functions/isarrayofdates",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isArrayOfDates",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isarrayofdates",
+    "title": "Function: isArrayOfDates",
+    "sidebar_label": "isArrayOfDates",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: IconPrevious",
+    "permalink": "/api/functions/iconprevious"
+  },
+  "next": {
+    "title": "Function: isDateAfterType",
+    "permalink": "/api/functions/isdateaftertype"
+  }
+}

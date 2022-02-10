@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/datebefore",
+  "id": "api/types/datebefore",
+  "isDocsHomePage": false,
+  "title": "Type alias: DateBefore",
+  "description": "Ƭ DateBefore: Object",
+  "source": "@site/docs/api/types/datebefore.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/datebefore",
+  "permalink": "/api/types/datebefore",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DateBefore",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "datebefore",
+    "title": "Type alias: DateBefore",
+    "sidebar_label": "DateBefore",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DateAfter",
+    "permalink": "/api/types/dateafter"
+  },
+  "next": {
+    "title": "Type alias: DateFormatter",
+    "permalink": "/api/types/dateformatter"
+  }
+}

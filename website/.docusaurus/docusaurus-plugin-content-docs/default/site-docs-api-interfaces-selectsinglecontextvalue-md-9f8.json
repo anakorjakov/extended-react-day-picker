@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/selectsinglecontextvalue",
+  "id": "api/interfaces/selectsinglecontextvalue",
+  "isDocsHomePage": false,
+  "title": "Interface: SelectSingleContextValue",
+  "description": "Represents the value of a SelectSingleContext.",
+  "source": "@site/docs/api/interfaces/selectsinglecontextvalue.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/selectsinglecontextvalue",
+  "permalink": "/api/interfaces/selectsinglecontextvalue",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectSingleContextValue",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectsinglecontextvalue",
+    "title": "Interface: SelectSingleContextValue",
+    "sidebar_label": "SelectSingleContextValue",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: SelectRangeContextValue",
+    "permalink": "/api/interfaces/selectrangecontextvalue"
+  },
+  "next": {
+    "title": "Interface: SelectSingleEventHandler",
+    "permalink": "/api/interfaces/selectsingleeventhandler"
+  }
+}

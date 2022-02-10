@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/daycontentprops",
+  "id": "api/interfaces/daycontentprops",
+  "isDocsHomePage": false,
+  "title": "Interface: DayContentProps",
+  "description": "Represent the props for the DayContent component.",
+  "source": "@site/docs/api/interfaces/daycontentprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/daycontentprops",
+  "permalink": "/api/interfaces/daycontentprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayContentProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daycontentprops",
+    "title": "Interface: DayContentProps",
+    "sidebar_label": "DayContentProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: Components",
+    "permalink": "/api/interfaces/components"
+  },
+  "next": {
+    "title": "Interface: DayPickerBase",
+    "permalink": "/api/interfaces/daypickerbase"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/weeknumberlabelformatter",
+  "id": "api/types/weeknumberlabelformatter",
+  "isDocsHomePage": false,
+  "title": "Type alias: WeekNumberLabelFormatter",
+  "description": "Ƭ WeekNumberLabelFormatter number, options? Locale  }) => string",
+  "source": "@site/docs/api/types/weeknumberlabelformatter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/weeknumberlabelformatter",
+  "permalink": "/api/types/weeknumberlabelformatter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "WeekNumberLabelFormatter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "weeknumberlabelformatter",
+    "title": "Type alias: WeekNumberLabelFormatter",
+    "sidebar_label": "WeekNumberLabelFormatter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: WeekNumberFormatter",
+    "permalink": "/api/types/weeknumberformatter"
+  },
+  "next": {
+    "title": "Variable: Button",
+    "permalink": "/api/variables/button"
+  }
+}

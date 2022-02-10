@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/selectmultipleprovider",
+  "id": "api/functions/selectmultipleprovider",
+  "isDocsHomePage": false,
+  "title": "Function: SelectMultipleProvider",
+  "description": "▸ SelectMultipleProvider(__namedParameters): JSX.Element",
+  "source": "@site/docs/api/functions/selectmultipleprovider.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/selectmultipleprovider",
+  "permalink": "/api/functions/selectmultipleprovider",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectMultipleProvider",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectmultipleprovider",
+    "title": "Function: SelectMultipleProvider",
+    "sidebar_label": "SelectMultipleProvider",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Row",
+    "permalink": "/api/functions/row"
+  },
+  "next": {
+    "title": "Function: SelectRangeProvider",
+    "permalink": "/api/functions/selectrangeprovider"
+  }
+}

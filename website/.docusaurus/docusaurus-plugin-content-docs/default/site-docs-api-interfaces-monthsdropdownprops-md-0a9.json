@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/monthsdropdownprops",
+  "id": "api/interfaces/monthsdropdownprops",
+  "isDocsHomePage": false,
+  "title": "Interface: MonthsDropdownProps",
+  "description": "The props for the MonthsDropdown component.",
+  "source": "@site/docs/api/interfaces/monthsdropdownprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/monthsdropdownprops",
+  "permalink": "/api/interfaces/monthsdropdownprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "MonthsDropdownProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "monthsdropdownprops",
+    "title": "Interface: MonthsDropdownProps",
+    "sidebar_label": "MonthsDropdownProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DropdownProps",
+    "permalink": "/api/interfaces/dropdownprops"
+  },
+  "next": {
+    "title": "Interface: NavigationContextValue",
+    "permalink": "/api/interfaces/navigationcontextvalue"
+  }
+}

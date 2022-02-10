@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdaypickermultiple",
+  "id": "api/functions/isdaypickermultiple",
+  "isDocsHomePage": false,
+  "title": "Function: isDayPickerMultiple",
+  "description": "▸ isDayPickerMultiple(props): props is DayPickerMultiple",
+  "source": "@site/docs/api/functions/isdaypickermultiple.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdaypickermultiple",
+  "permalink": "/api/functions/isdaypickermultiple",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDayPickerMultiple",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdaypickermultiple",
+    "title": "Function: isDayPickerMultiple",
+    "sidebar_label": "isDayPickerMultiple",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDayOfWeekType",
+    "permalink": "/api/functions/isdayofweektype"
+  },
+  "next": {
+    "title": "Function: isDayPickerRange",
+    "permalink": "/api/functions/isdaypickerrange"
+  }
+}

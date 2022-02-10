@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/matcher",
+  "id": "api/types/matcher",
+  "isDocsHomePage": false,
+  "title": "Type alias: Matcher",
+  "description": "Ƭ Matcher Date) => boolean \\| Date \\| Date] \\| [DateRange \\| DateBefore \\| DateAfter \\| DateInterval \\| DayOfWeek",
+  "source": "@site/docs/api/types/matcher.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/matcher",
+  "permalink": "/api/types/matcher",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Matcher",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "matcher",
+    "title": "Type alias: Matcher",
+    "sidebar_label": "Matcher",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: Labels",
+    "permalink": "/api/types/labels"
+  },
+  "next": {
+    "title": "Type alias: Modifier",
+    "permalink": "/api/types/modifier"
+  }
+}

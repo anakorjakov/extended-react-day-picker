@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdaterange",
+  "id": "api/functions/isdaterange",
+  "isDocsHomePage": false,
+  "title": "Function: isDateRange",
+  "description": "▸ isDateRange(value): value is DateRange",
+  "source": "@site/docs/api/functions/isdaterange.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdaterange",
+  "permalink": "/api/functions/isdaterange",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDateRange",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdaterange",
+    "title": "Function: isDateRange",
+    "sidebar_label": "isDateRange",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDateInterval",
+    "permalink": "/api/functions/isdateinterval"
+  },
+  "next": {
+    "title": "Function: isDateType",
+    "permalink": "/api/functions/isdatetype"
+  }
+}

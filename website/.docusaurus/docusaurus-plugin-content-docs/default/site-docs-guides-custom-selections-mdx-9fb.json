@@ -1,0 +1,25 @@
+{
+  "unversionedId": "guides/custom-selections",
+  "id": "guides/custom-selections",
+  "isDocsHomePage": false,
+  "title": "Custom Selections",
+  "description": "In the Selecting Days tutorial. we have set different",
+  "source": "@site/docs/guides/custom-selections.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/custom-selections",
+  "permalink": "/guides/custom-selections",
+  "version": "current",
+  "frontMatter": {
+    "id": "custom-selections",
+    "title": "Custom Selections"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Modifiers",
+    "permalink": "/guides/modifiers"
+  },
+  "next": {
+    "title": "Formatters",
+    "permalink": "/guides/formatters"
+  }
+}

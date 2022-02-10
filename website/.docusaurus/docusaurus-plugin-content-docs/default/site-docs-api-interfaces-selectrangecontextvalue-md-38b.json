@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/selectrangecontextvalue",
+  "id": "api/interfaces/selectrangecontextvalue",
+  "isDocsHomePage": false,
+  "title": "Interface: SelectRangeContextValue",
+  "description": "Represents the value of a SelectRangeContext.",
+  "source": "@site/docs/api/interfaces/selectrangecontextvalue.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/selectrangecontextvalue",
+  "permalink": "/api/interfaces/selectrangecontextvalue",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectRangeContextValue",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectrangecontextvalue",
+    "title": "Interface: SelectRangeContextValue",
+    "sidebar_label": "SelectRangeContextValue",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: SelectMultipleContextValue",
+    "permalink": "/api/interfaces/selectmultiplecontextvalue"
+  },
+  "next": {
+    "title": "Interface: SelectSingleContextValue",
+    "permalink": "/api/interfaces/selectsinglecontextvalue"
+  }
+}

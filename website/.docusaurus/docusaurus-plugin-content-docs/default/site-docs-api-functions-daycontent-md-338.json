@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/daycontent",
+  "id": "api/functions/daycontent",
+  "isDocsHomePage": false,
+  "title": "Function: DayContent",
+  "description": "▸ DayContent(props): JSX.Element",
+  "source": "@site/docs/api/functions/daycontent.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/daycontent",
+  "permalink": "/api/functions/daycontent",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayContent",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daycontent",
+    "title": "Function: DayContent",
+    "sidebar_label": "DayContent",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Day",
+    "permalink": "/api/functions/day"
+  },
+  "next": {
+    "title": "Function: DayPicker",
+    "permalink": "/api/functions/daypicker"
+  }
+}

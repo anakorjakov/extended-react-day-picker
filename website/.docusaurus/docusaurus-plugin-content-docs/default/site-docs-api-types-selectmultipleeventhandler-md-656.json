@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/selectmultipleeventhandler",
+  "id": "api/types/selectmultipleeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: SelectMultipleEventHandler",
+  "description": "Ƭ SelectMultipleEventHandler Date] \\| undefined, selectedDay [ModifierStatus, e: React.MouseEvent) => void",
+  "source": "@site/docs/api/types/selectmultipleeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/selectmultipleeventhandler",
+  "permalink": "/api/types/selectmultipleeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectMultipleEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectmultipleeventhandler",
+    "title": "Type alias: SelectMultipleEventHandler",
+    "sidebar_label": "SelectMultipleEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: NavButtonLabelFormatter",
+    "permalink": "/api/types/navbuttonlabelformatter"
+  },
+  "next": {
+    "title": "Type alias: SelectMultipleModifiers",
+    "permalink": "/api/types/selectmultiplemodifiers"
+  }
+}

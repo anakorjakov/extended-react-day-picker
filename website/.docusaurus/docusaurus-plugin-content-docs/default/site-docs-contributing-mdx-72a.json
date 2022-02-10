@@ -1,0 +1,27 @@
+{
+  "unversionedId": "contributing",
+  "id": "contributing",
+  "isDocsHomePage": false,
+  "title": "Contributing",
+  "description": "You are welcome to join the [DayPicker",
+  "source": "@site/docs/contributing.mdx",
+  "sourceDirName": ".",
+  "slug": "/contributing",
+  "permalink": "/contributing",
+  "version": "current",
+  "frontMatter": {
+    "id": "contributing",
+    "title": "Contributing",
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/changelog"
+  },
+  "next": {
+    "title": "License",
+    "permalink": "/license"
+  }
+}

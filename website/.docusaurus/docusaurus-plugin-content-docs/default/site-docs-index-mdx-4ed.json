@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "DayPicker is a reusable date picker component for React.",
+  "source": "@site/docs/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "id": "intro",
+    "title": "Introduction",
+    "hide_title": true,
+    "hide_table_of_contents": true
+  },
+  "sidebar": "sidebar",
+  "next": {
+    "title": "Get Started",
+    "permalink": "/start"
+  }
+}

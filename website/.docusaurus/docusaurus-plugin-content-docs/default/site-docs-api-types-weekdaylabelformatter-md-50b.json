@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/weekdaylabelformatter",
+  "id": "api/types/weekdaylabelformatter",
+  "isDocsHomePage": false,
+  "title": "Type alias: WeekdayLabelFormatter",
+  "description": "Ƭ WeekdayLabelFormatter Date, options? Locale  }) => string",
+  "source": "@site/docs/api/types/weekdaylabelformatter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/weekdaylabelformatter",
+  "permalink": "/api/types/weekdaylabelformatter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "WeekdayLabelFormatter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "weekdaylabelformatter",
+    "title": "Type alias: WeekdayLabelFormatter",
+    "sidebar_label": "WeekdayLabelFormatter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: UseDay",
+    "permalink": "/api/types/useday"
+  },
+  "next": {
+    "title": "Type alias: WeekNumberClickEventHandler",
+    "permalink": "/api/types/weeknumberclickeventhandler"
+  }
+}

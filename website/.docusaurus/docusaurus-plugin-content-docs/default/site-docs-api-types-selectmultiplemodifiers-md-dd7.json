@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/selectmultiplemodifiers",
+  "id": "api/types/selectmultiplemodifiers",
+  "isDocsHomePage": false,
+  "title": "Type alias: SelectMultipleModifiers",
+  "description": "Ƭ SelectMultipleModifiers: Pick",
+  "source": "@site/docs/api/types/selectmultiplemodifiers.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/selectmultiplemodifiers",
+  "permalink": "/api/types/selectmultiplemodifiers",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectMultipleModifiers",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectmultiplemodifiers",
+    "title": "Type alias: SelectMultipleModifiers",
+    "sidebar_label": "SelectMultipleModifiers",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: SelectMultipleEventHandler",
+    "permalink": "/api/types/selectmultipleeventhandler"
+  },
+  "next": {
+    "title": "Type alias: SelectRangeEventHandler",
+    "permalink": "/api/types/selectrangeeventhandler"
+  }
+}

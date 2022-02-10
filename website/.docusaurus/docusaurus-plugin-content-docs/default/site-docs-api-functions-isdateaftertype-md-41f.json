@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdateaftertype",
+  "id": "api/functions/isdateaftertype",
+  "isDocsHomePage": false,
+  "title": "Function: isDateAfterType",
+  "description": "▸ isDateAfterType(value): value is DateAfter",
+  "source": "@site/docs/api/functions/isdateaftertype.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdateaftertype",
+  "permalink": "/api/functions/isdateaftertype",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDateAfterType",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdateaftertype",
+    "title": "Function: isDateAfterType",
+    "sidebar_label": "isDateAfterType",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isArrayOfDates",
+    "permalink": "/api/functions/isarrayofdates"
+  },
+  "next": {
+    "title": "Function: isDateBeforeType",
+    "permalink": "/api/functions/isdatebeforetype"
+  }
+}

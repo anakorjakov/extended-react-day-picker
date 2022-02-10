@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/usenavigation",
+  "id": "api/functions/usenavigation",
+  "isDocsHomePage": false,
+  "title": "Function: useNavigation",
+  "description": "▸ useNavigation(): NavigationContextValue",
+  "source": "@site/docs/api/functions/usenavigation.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/usenavigation",
+  "permalink": "/api/functions/usenavigation",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useNavigation",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "usenavigation",
+    "title": "Function: useNavigation",
+    "sidebar_label": "useNavigation",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useModifiers",
+    "permalink": "/api/functions/usemodifiers"
+  },
+  "next": {
+    "title": "Function: useSelectMultiple",
+    "permalink": "/api/functions/useselectmultiple"
+  }
+}

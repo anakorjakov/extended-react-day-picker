@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/dateafter",
+  "id": "api/types/dateafter",
+  "isDocsHomePage": false,
+  "title": "Type alias: DateAfter",
+  "description": "Ƭ DateAfter: Object",
+  "source": "@site/docs/api/types/dateafter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/dateafter",
+  "permalink": "/api/types/dateafter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DateAfter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dateafter",
+    "title": "Type alias: DateAfter",
+    "sidebar_label": "DateAfter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: CustomModifiers",
+    "permalink": "/api/types/custommodifiers"
+  },
+  "next": {
+    "title": "Type alias: DateBefore",
+    "permalink": "/api/types/datebefore"
+  }
+}

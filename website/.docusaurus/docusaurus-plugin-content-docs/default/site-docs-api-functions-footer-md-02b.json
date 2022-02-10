@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/footer",
+  "id": "api/functions/footer",
+  "isDocsHomePage": false,
+  "title": "Function: Footer",
+  "description": "▸ Footer(): JSX.Element",
+  "source": "@site/docs/api/functions/footer.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/footer",
+  "permalink": "/api/functions/footer",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Footer",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "footer",
+    "title": "Function: Footer",
+    "sidebar_label": "Footer",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: FocusProvider",
+    "permalink": "/api/functions/focusprovider"
+  },
+  "next": {
+    "title": "Function: Head",
+    "permalink": "/api/functions/head"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/root",
+  "id": "api/functions/root",
+  "isDocsHomePage": false,
+  "title": "Function: Root",
+  "description": "▸ Root(): JSX.Element",
+  "source": "@site/docs/api/functions/root.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/root",
+  "permalink": "/api/functions/root",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Root",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "root",
+    "title": "Function: Root",
+    "sidebar_label": "Root",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: NavigationProvider",
+    "permalink": "/api/functions/navigationprovider"
+  },
+  "next": {
+    "title": "Function: Row",
+    "permalink": "/api/functions/row"
+  }
+}

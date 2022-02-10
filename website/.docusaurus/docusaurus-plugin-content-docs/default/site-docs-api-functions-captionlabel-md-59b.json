@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/captionlabel",
+  "id": "api/functions/captionlabel",
+  "isDocsHomePage": false,
+  "title": "Function: CaptionLabel",
+  "description": "▸ CaptionLabel(props): JSX.Element",
+  "source": "@site/docs/api/functions/captionlabel.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/captionlabel",
+  "permalink": "/api/functions/captionlabel",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "CaptionLabel",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "captionlabel",
+    "title": "Function: CaptionLabel",
+    "sidebar_label": "CaptionLabel",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Caption",
+    "permalink": "/api/functions/caption"
+  },
+  "next": {
+    "title": "Function: ContextProvider",
+    "permalink": "/api/functions/contextprovider"
+  }
+}

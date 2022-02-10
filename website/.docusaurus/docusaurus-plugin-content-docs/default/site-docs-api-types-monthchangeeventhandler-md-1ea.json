@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/monthchangeeventhandler",
+  "id": "api/types/monthchangeeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: MonthChangeEventHandler",
+  "description": "Ƭ MonthChangeEventHandler Date) => void",
+  "source": "@site/docs/api/types/monthchangeeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/monthchangeeventhandler",
+  "permalink": "/api/types/monthchangeeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "MonthChangeEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "monthchangeeventhandler",
+    "title": "Type alias: MonthChangeEventHandler",
+    "sidebar_label": "MonthChangeEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: ModifierStyles",
+    "permalink": "/api/types/modifierstyles"
+  },
+  "next": {
+    "title": "Type alias: NavButtonLabelFormatter",
+    "permalink": "/api/types/navbuttonlabelformatter"
+  }
+}

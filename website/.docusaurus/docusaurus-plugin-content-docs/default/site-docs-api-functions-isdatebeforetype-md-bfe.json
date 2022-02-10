@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdatebeforetype",
+  "id": "api/functions/isdatebeforetype",
+  "isDocsHomePage": false,
+  "title": "Function: isDateBeforeType",
+  "description": "▸ isDateBeforeType(value): value is DateBefore",
+  "source": "@site/docs/api/functions/isdatebeforetype.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdatebeforetype",
+  "permalink": "/api/functions/isdatebeforetype",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDateBeforeType",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdatebeforetype",
+    "title": "Function: isDateBeforeType",
+    "sidebar_label": "isDateBeforeType",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDateAfterType",
+    "permalink": "/api/functions/isdateaftertype"
+  },
+  "next": {
+    "title": "Function: isDateInterval",
+    "permalink": "/api/functions/isdateinterval"
+  }
+}

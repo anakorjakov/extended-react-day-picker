@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/labels",
+  "id": "api/types/labels",
+  "isDocsHomePage": false,
+  "title": "Type alias: Labels",
+  "description": "Ƭ Labels: Object",
+  "source": "@site/docs/api/types/labels.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/labels",
+  "permalink": "/api/types/labels",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Labels",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "labels",
+    "title": "Type alias: Labels",
+    "sidebar_label": "Labels",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: InternalModifier",
+    "permalink": "/api/types/internalmodifier"
+  },
+  "next": {
+    "title": "Type alias: Matcher",
+    "permalink": "/api/types/matcher"
+  }
+}

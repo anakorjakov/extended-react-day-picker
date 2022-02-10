@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/contextprovider",
+  "id": "api/functions/contextprovider",
+  "isDocsHomePage": false,
+  "title": "Function: ContextProvider",
+  "description": "▸ ContextProvider(props): JSX.Element",
+  "source": "@site/docs/api/functions/contextprovider.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/contextprovider",
+  "permalink": "/api/functions/contextprovider",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "ContextProvider",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "contextprovider",
+    "title": "Function: ContextProvider",
+    "sidebar_label": "ContextProvider",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: CaptionLabel",
+    "permalink": "/api/functions/captionlabel"
+  },
+  "next": {
+    "title": "Function: Day",
+    "permalink": "/api/functions/day"
+  }
+}

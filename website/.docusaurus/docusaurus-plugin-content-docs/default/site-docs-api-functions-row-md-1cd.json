@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/row",
+  "id": "api/functions/row",
+  "isDocsHomePage": false,
+  "title": "Function: Row",
+  "description": "▸ Row(props): JSX.Element",
+  "source": "@site/docs/api/functions/row.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/row",
+  "permalink": "/api/functions/row",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Row",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "row",
+    "title": "Function: Row",
+    "sidebar_label": "Row",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Root",
+    "permalink": "/api/functions/root"
+  },
+  "next": {
+    "title": "Function: SelectMultipleProvider",
+    "permalink": "/api/functions/selectmultipleprovider"
+  }
+}

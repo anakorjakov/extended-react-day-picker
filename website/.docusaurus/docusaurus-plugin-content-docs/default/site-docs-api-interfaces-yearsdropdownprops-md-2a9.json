@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/yearsdropdownprops",
+  "id": "api/interfaces/yearsdropdownprops",
+  "isDocsHomePage": false,
+  "title": "Interface: YearsDropdownProps",
+  "description": "The props for the YearsDropdown component.",
+  "source": "@site/docs/api/interfaces/yearsdropdownprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/yearsdropdownprops",
+  "permalink": "/api/interfaces/yearsdropdownprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "YearsDropdownProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "yearsdropdownprops",
+    "title": "Interface: YearsDropdownProps",
+    "sidebar_label": "YearsDropdownProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: WeekNumberProps",
+    "permalink": "/api/interfaces/weeknumberprops"
+  },
+  "next": {
+    "title": "Type alias: CaptionLayout",
+    "permalink": "/api/types/captionlayout"
+  }
+}

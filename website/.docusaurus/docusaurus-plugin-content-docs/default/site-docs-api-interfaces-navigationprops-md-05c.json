@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/navigationprops",
+  "id": "api/interfaces/navigationprops",
+  "isDocsHomePage": false,
+  "title": "Interface: NavigationProps",
+  "description": "The props for the Navigation component.",
+  "source": "@site/docs/api/interfaces/navigationprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/navigationprops",
+  "permalink": "/api/interfaces/navigationprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "NavigationProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "navigationprops",
+    "title": "Interface: NavigationProps",
+    "sidebar_label": "NavigationProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: NavigationContextValue",
+    "permalink": "/api/interfaces/navigationcontextvalue"
+  },
+  "next": {
+    "title": "Interface: RowProps",
+    "permalink": "/api/interfaces/rowprops"
+  }
+}

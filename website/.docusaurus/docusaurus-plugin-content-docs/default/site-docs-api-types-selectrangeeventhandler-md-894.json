@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/selectrangeeventhandler",
+  "id": "api/types/selectrangeeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: SelectRangeEventHandler",
+  "description": "Ƭ SelectRangeEventHandler DateRange \\| undefined, selectedDay ModifierStatus, e: React.MouseEvent) => void",
+  "source": "@site/docs/api/types/selectrangeeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/selectrangeeventhandler",
+  "permalink": "/api/types/selectrangeeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectRangeEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectrangeeventhandler",
+    "title": "Type alias: SelectRangeEventHandler",
+    "sidebar_label": "SelectRangeEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: SelectMultipleModifiers",
+    "permalink": "/api/types/selectmultiplemodifiers"
+  },
+  "next": {
+    "title": "Type alias: SelectRangeModifiers",
+    "permalink": "/api/types/selectrangemodifiers"
+  }
+}

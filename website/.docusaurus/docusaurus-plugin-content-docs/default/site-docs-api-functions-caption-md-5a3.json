@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/caption",
+  "id": "api/functions/caption",
+  "isDocsHomePage": false,
+  "title": "Function: Caption",
+  "description": "▸ Caption(props): JSX.Element",
+  "source": "@site/docs/api/functions/caption.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/caption",
+  "permalink": "/api/functions/caption",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Caption",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "caption",
+    "title": "Function: Caption",
+    "sidebar_label": "Caption",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Variable: SelectSingleContext",
+    "permalink": "/api/variables/selectsinglecontext"
+  },
+  "next": {
+    "title": "Function: CaptionLabel",
+    "permalink": "/api/functions/captionlabel"
+  }
+}

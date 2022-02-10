@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/dayprops",
+  "id": "api/interfaces/dayprops",
+  "isDocsHomePage": false,
+  "title": "Interface: DayProps",
+  "description": "Represent the props used by the Day component.",
+  "source": "@site/docs/api/interfaces/dayprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/dayprops",
+  "permalink": "/api/interfaces/dayprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dayprops",
+    "title": "Interface: DayProps",
+    "sidebar_label": "DayProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayPickerUncontrolled",
+    "permalink": "/api/interfaces/daypickeruncontrolled"
+  },
+  "next": {
+    "title": "Interface: DropdownProps",
+    "permalink": "/api/interfaces/dropdownprops"
+  }
+}

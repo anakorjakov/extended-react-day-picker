@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/dayclickeventhandler",
+  "id": "api/types/dayclickeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayClickEventHandler",
+  "description": "Ƭ DayClickEventHandler Date, modifiers React.MouseEvent) => void",
+  "source": "@site/docs/api/types/dayclickeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/dayclickeventhandler",
+  "permalink": "/api/types/dayclickeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayClickEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dayclickeventhandler",
+    "title": "Type alias: DayClickEventHandler",
+    "sidebar_label": "DayClickEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DateRange",
+    "permalink": "/api/types/daterange"
+  },
+  "next": {
+    "title": "Type alias: DayFocusEventHandler",
+    "permalink": "/api/types/dayfocuseventhandler"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/dateformatter",
+  "id": "api/types/dateformatter",
+  "isDocsHomePage": false,
+  "title": "Type alias: DateFormatter",
+  "description": "Ƭ DateFormatter Date, options? Locale  }) => React.ReactNode",
+  "source": "@site/docs/api/types/dateformatter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/dateformatter",
+  "permalink": "/api/types/dateformatter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DateFormatter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dateformatter",
+    "title": "Type alias: DateFormatter",
+    "sidebar_label": "DateFormatter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DateBefore",
+    "permalink": "/api/types/datebefore"
+  },
+  "next": {
+    "title": "Type alias: DateInterval",
+    "permalink": "/api/types/dateinterval"
+  }
+}

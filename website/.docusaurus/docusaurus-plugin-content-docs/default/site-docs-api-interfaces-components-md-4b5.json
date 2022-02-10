@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/components",
+  "id": "api/interfaces/components",
+  "isDocsHomePage": false,
+  "title": "Interface: Components",
+  "description": "Represent a map of the component that can be changed via the components",
+  "source": "@site/docs/api/interfaces/components.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/components",
+  "permalink": "/api/interfaces/components",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Components",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "components",
+    "title": "Interface: Components",
+    "sidebar_label": "Components",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: CaptionProps",
+    "permalink": "/api/interfaces/captionprops"
+  },
+  "next": {
+    "title": "Interface: DayContentProps",
+    "permalink": "/api/interfaces/daycontentprops"
+  }
+}

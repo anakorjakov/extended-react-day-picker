@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/daypickerbase",
+  "id": "api/interfaces/daypickerbase",
+  "isDocsHomePage": false,
+  "title": "Interface: DayPickerBase",
+  "description": "The shared props for the DayPicker component.",
+  "source": "@site/docs/api/interfaces/daypickerbase.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/daypickerbase",
+  "permalink": "/api/interfaces/daypickerbase",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerBase",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickerbase",
+    "title": "Interface: DayPickerBase",
+    "sidebar_label": "DayPickerBase",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayContentProps",
+    "permalink": "/api/interfaces/daycontentprops"
+  },
+  "next": {
+    "title": "Interface: DayPickerMultiple",
+    "permalink": "/api/interfaces/daypickermultiple"
+  }
+}

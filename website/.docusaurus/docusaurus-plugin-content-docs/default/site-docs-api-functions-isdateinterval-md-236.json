@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdateinterval",
+  "id": "api/functions/isdateinterval",
+  "isDocsHomePage": false,
+  "title": "Function: isDateInterval",
+  "description": "▸ isDateInterval(matcher): matcher is DateInterval",
+  "source": "@site/docs/api/functions/isdateinterval.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdateinterval",
+  "permalink": "/api/functions/isdateinterval",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDateInterval",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdateinterval",
+    "title": "Function: isDateInterval",
+    "sidebar_label": "isDateInterval",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDateBeforeType",
+    "permalink": "/api/functions/isdatebeforetype"
+  },
+  "next": {
+    "title": "Function: isDateRange",
+    "permalink": "/api/functions/isdaterange"
+  }
+}

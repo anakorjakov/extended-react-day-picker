@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/daypickerrange",
+  "id": "api/interfaces/daypickerrange",
+  "isDocsHomePage": false,
+  "title": "Interface: DayPickerRange",
+  "description": "The props for the DayPicker component when using range selection mode.",
+  "source": "@site/docs/api/interfaces/daypickerrange.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/daypickerrange",
+  "permalink": "/api/interfaces/daypickerrange",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerRange",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickerrange",
+    "title": "Interface: DayPickerRange",
+    "sidebar_label": "DayPickerRange",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayPickerMultiple",
+    "permalink": "/api/interfaces/daypickermultiple"
+  },
+  "next": {
+    "title": "Interface: DayPickerSingle",
+    "permalink": "/api/interfaces/daypickersingle"
+  }
+}

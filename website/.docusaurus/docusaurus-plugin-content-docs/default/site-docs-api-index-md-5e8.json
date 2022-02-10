@@ -1,0 +1,32 @@
+{
+  "unversionedId": "api/index",
+  "id": "api/index",
+  "isDocsHomePage": false,
+  "title": "API Reference",
+  "description": "Interfaces",
+  "source": "@site/docs/api/index.md",
+  "sourceDirName": "api",
+  "slug": "/api",
+  "permalink": "/api",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Exports",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "id": "index",
+    "title": "API Reference",
+    "slug": "/api",
+    "sidebar_label": "Exports",
+    "sidebar_position": 0.5,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Custom Components",
+    "permalink": "/guides/custom-components"
+  },
+  "next": {
+    "title": "Interface: CaptionLabelProps",
+    "permalink": "/api/interfaces/captionlabelprops"
+  }
+}

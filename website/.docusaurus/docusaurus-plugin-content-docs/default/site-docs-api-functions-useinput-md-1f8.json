@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/useinput",
+  "id": "api/functions/useinput",
+  "isDocsHomePage": false,
+  "title": "Function: useInput",
+  "description": "▸ useInput(options?): UseInput",
+  "source": "@site/docs/api/functions/useinput.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/useinput",
+  "permalink": "/api/functions/useinput",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useInput",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useinput",
+    "title": "Function: useInput",
+    "sidebar_label": "useInput",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useFocus",
+    "permalink": "/api/functions/usefocus"
+  },
+  "next": {
+    "title": "Function: useModifiers",
+    "permalink": "/api/functions/usemodifiers"
+  }
+}

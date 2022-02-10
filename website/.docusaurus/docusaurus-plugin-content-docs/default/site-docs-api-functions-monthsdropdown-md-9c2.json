@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/monthsdropdown",
+  "id": "api/functions/monthsdropdown",
+  "isDocsHomePage": false,
+  "title": "Function: MonthsDropdown",
+  "description": "▸ MonthsDropdown(props): JSX.Element",
+  "source": "@site/docs/api/functions/monthsdropdown.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/monthsdropdown",
+  "permalink": "/api/functions/monthsdropdown",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "MonthsDropdown",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "monthsdropdown",
+    "title": "Function: MonthsDropdown",
+    "sidebar_label": "MonthsDropdown",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDayPickerUncontrolled",
+    "permalink": "/api/functions/isdaypickeruncontrolled"
+  },
+  "next": {
+    "title": "Function: Navigation",
+    "permalink": "/api/functions/navigation"
+  }
+}

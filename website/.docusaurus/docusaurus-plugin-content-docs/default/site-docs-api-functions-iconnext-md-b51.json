@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/iconnext",
+  "id": "api/functions/iconnext",
+  "isDocsHomePage": false,
+  "title": "Function: IconNext",
+  "description": "▸ IconNext(props): JSX.Element",
+  "source": "@site/docs/api/functions/iconnext.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/iconnext",
+  "permalink": "/api/functions/iconnext",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "IconNext",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "iconnext",
+    "title": "Function: IconNext",
+    "sidebar_label": "IconNext",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: IconDropdown",
+    "permalink": "/api/functions/icondropdown"
+  },
+  "next": {
+    "title": "Function: IconPrevious",
+    "permalink": "/api/functions/iconprevious"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/head",
+  "id": "api/functions/head",
+  "isDocsHomePage": false,
+  "title": "Function: Head",
+  "description": "▸ Head(): JSX.Element",
+  "source": "@site/docs/api/functions/head.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/head",
+  "permalink": "/api/functions/head",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Head",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "head",
+    "title": "Function: Head",
+    "sidebar_label": "Head",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Footer",
+    "permalink": "/api/functions/footer"
+  },
+  "next": {
+    "title": "Function: IconDropdown",
+    "permalink": "/api/functions/icondropdown"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daypickerselectionprops",
+  "id": "api/types/daypickerselectionprops",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayPickerSelectionProps",
+  "description": "Ƭ DayPickerSelectionProps: DayPickerRange \\| DayPickerMultiple \\| DayPickerSingle \\| DayPickerUncontrolled",
+  "source": "@site/docs/api/types/daypickerselectionprops.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daypickerselectionprops",
+  "permalink": "/api/types/daypickerselectionprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerSelectionProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickerselectionprops",
+    "title": "Type alias: DayPickerSelectionProps",
+    "sidebar_label": "DayPickerSelectionProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayPickerProps",
+    "permalink": "/api/types/daypickerprops"
+  },
+  "next": {
+    "title": "Type alias: DayTouchEventHandler",
+    "permalink": "/api/types/daytoucheventhandler"
+  }
+}

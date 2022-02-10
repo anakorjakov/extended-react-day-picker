@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daylabelformatter",
+  "id": "api/types/daylabelformatter",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayLabelFormatter",
+  "description": "Ƭ DayLabelFormatter Date, modifiers { locale?: Locale  }) => string",
+  "source": "@site/docs/api/types/daylabelformatter.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daylabelformatter",
+  "permalink": "/api/types/daylabelformatter",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayLabelFormatter",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daylabelformatter",
+    "title": "Type alias: DayLabelFormatter",
+    "sidebar_label": "DayLabelFormatter",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayKeyboardEventHandler",
+    "permalink": "/api/types/daykeyboardeventhandler"
+  },
+  "next": {
+    "title": "Type alias: DayMouseEventHandler",
+    "permalink": "/api/types/daymouseeventhandler"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/contextproviderprops",
+  "id": "api/types/contextproviderprops",
+  "isDocsHomePage": false,
+  "title": "Type alias: ContextProviderProps",
+  "description": "Ƭ ContextProviderProps React.ReactNode  }",
+  "source": "@site/docs/api/types/contextproviderprops.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/contextproviderprops",
+  "permalink": "/api/types/contextproviderprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "ContextProviderProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "contextproviderprops",
+    "title": "Type alias: ContextProviderProps",
+    "sidebar_label": "ContextProviderProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: ClassNames",
+    "permalink": "/api/types/classnames"
+  },
+  "next": {
+    "title": "Type alias: CustomModifiers",
+    "permalink": "/api/types/custommodifiers"
+  }
+}

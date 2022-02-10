@@ -1,0 +1,26 @@
+{
+  "unversionedId": "changelog",
+  "id": "changelog",
+  "isDocsHomePage": false,
+  "title": "Changelog",
+  "description": "v8.0 (in development)",
+  "source": "@site/docs/changelog.mdx",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/changelog",
+  "version": "current",
+  "frontMatter": {
+    "id": "changelog",
+    "title": "Changelog",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: YearsDropdown",
+    "permalink": "/api/functions/yearsdropdown"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/contributing"
+  }
+}

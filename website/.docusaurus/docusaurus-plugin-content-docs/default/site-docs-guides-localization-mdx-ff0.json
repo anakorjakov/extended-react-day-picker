@@ -1,0 +1,25 @@
+{
+  "unversionedId": "guides/localization",
+  "id": "guides/localization",
+  "isDocsHomePage": false,
+  "title": "Localization",
+  "description": "Changing locale",
+  "source": "@site/docs/guides/localization.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/localization",
+  "permalink": "/guides/localization",
+  "version": "current",
+  "frontMatter": {
+    "id": "localization",
+    "title": "Localization"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Formatters",
+    "permalink": "/guides/formatters"
+  },
+  "next": {
+    "title": "Input Fields",
+    "permalink": "/guides/input-fields"
+  }
+}

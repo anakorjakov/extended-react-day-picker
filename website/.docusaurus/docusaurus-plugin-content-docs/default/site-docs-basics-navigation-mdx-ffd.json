@@ -1,0 +1,25 @@
+{
+  "unversionedId": "basics/navigation",
+  "id": "basics/navigation",
+  "isDocsHomePage": false,
+  "title": "Navigating Months",
+  "description": "Change the default month",
+  "source": "@site/docs/basics/navigation.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/navigation",
+  "permalink": "/basics/navigation",
+  "version": "current",
+  "frontMatter": {
+    "id": "navigation",
+    "title": "Navigating Months"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Get Started",
+    "permalink": "/start"
+  },
+  "next": {
+    "title": "Customization",
+    "permalink": "/basics/customization"
+  }
+}

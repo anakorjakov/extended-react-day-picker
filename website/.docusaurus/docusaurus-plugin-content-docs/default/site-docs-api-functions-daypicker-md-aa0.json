@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/daypicker",
+  "id": "api/functions/daypicker",
+  "isDocsHomePage": false,
+  "title": "Function: DayPicker",
+  "description": "▸ DayPicker(props): JSX.Element",
+  "source": "@site/docs/api/functions/daypicker.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/daypicker",
+  "permalink": "/api/functions/daypicker",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPicker",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypicker",
+    "title": "Function: DayPicker",
+    "sidebar_label": "DayPicker",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: DayContent",
+    "permalink": "/api/functions/daycontent"
+  },
+  "next": {
+    "title": "Function: Dropdown",
+    "permalink": "/api/functions/dropdown"
+  }
+}

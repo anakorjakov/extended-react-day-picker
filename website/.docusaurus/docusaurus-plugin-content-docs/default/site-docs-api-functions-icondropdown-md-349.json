@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/icondropdown",
+  "id": "api/functions/icondropdown",
+  "isDocsHomePage": false,
+  "title": "Function: IconDropdown",
+  "description": "▸ IconDropdown(props): JSX.Element",
+  "source": "@site/docs/api/functions/icondropdown.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/icondropdown",
+  "permalink": "/api/functions/icondropdown",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "IconDropdown",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "icondropdown",
+    "title": "Function: IconDropdown",
+    "sidebar_label": "IconDropdown",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Head",
+    "permalink": "/api/functions/head"
+  },
+  "next": {
+    "title": "Function: IconNext",
+    "permalink": "/api/functions/iconnext"
+  }
+}

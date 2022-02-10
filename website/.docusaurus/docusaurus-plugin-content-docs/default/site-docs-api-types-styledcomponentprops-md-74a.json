@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/styledcomponentprops",
+  "id": "api/types/styledcomponentprops",
+  "isDocsHomePage": false,
+  "title": "Type alias: StyledComponentProps",
+  "description": "Ƭ StyledComponentProps: Object",
+  "source": "@site/docs/api/types/styledcomponentprops.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/styledcomponentprops",
+  "permalink": "/api/types/styledcomponentprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "StyledComponentProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "styledcomponentprops",
+    "title": "Type alias: StyledComponentProps",
+    "sidebar_label": "StyledComponentProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: SelectSingleModifiers",
+    "permalink": "/api/types/selectsinglemodifiers"
+  },
+  "next": {
+    "title": "Type alias: StyledElement<T>",
+    "permalink": "/api/types/styledelement"
+  }
+}

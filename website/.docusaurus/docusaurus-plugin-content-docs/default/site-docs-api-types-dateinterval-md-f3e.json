@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/dateinterval",
+  "id": "api/types/dateinterval",
+  "isDocsHomePage": false,
+  "title": "Type alias: DateInterval",
+  "description": "Ƭ DateInterval: Object",
+  "source": "@site/docs/api/types/dateinterval.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/dateinterval",
+  "permalink": "/api/types/dateinterval",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DateInterval",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dateinterval",
+    "title": "Type alias: DateInterval",
+    "sidebar_label": "DateInterval",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DateFormatter",
+    "permalink": "/api/types/dateformatter"
+  },
+  "next": {
+    "title": "Type alias: DateRange",
+    "permalink": "/api/types/daterange"
+  }
+}

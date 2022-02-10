@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/styles",
+  "id": "api/types/styles",
+  "isDocsHomePage": false,
+  "title": "Type alias: Styles",
+  "description": "Ƭ Styles: Partial\\>",
+  "source": "@site/docs/api/types/styles.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/styles",
+  "permalink": "/api/types/styles",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Styles",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "styles",
+    "title": "Type alias: Styles",
+    "sidebar_label": "Styles",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: StyledElement<T>",
+    "permalink": "/api/types/styledelement"
+  },
+  "next": {
+    "title": "Type alias: UseDay",
+    "permalink": "/api/types/useday"
+  }
+}

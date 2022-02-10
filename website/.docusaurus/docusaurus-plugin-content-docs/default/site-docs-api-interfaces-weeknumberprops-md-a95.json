@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/weeknumberprops",
+  "id": "api/interfaces/weeknumberprops",
+  "isDocsHomePage": false,
+  "title": "Interface: WeekNumberProps",
+  "description": "The props for the WeekNumber component.",
+  "source": "@site/docs/api/interfaces/weeknumberprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/weeknumberprops",
+  "permalink": "/api/interfaces/weeknumberprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "WeekNumberProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "weeknumberprops",
+    "title": "Interface: WeekNumberProps",
+    "sidebar_label": "WeekNumberProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: UseInputOptions",
+    "permalink": "/api/interfaces/useinputoptions"
+  },
+  "next": {
+    "title": "Interface: YearsDropdownProps",
+    "permalink": "/api/interfaces/yearsdropdownprops"
+  }
+}

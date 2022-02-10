@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/captionlayout",
+  "id": "api/types/captionlayout",
+  "isDocsHomePage": false,
+  "title": "Type alias: CaptionLayout",
+  "description": "Ƭ CaptionLayout: `\"dropdown\" \\| \"buttons\"`",
+  "source": "@site/docs/api/types/captionlayout.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/captionlayout",
+  "permalink": "/api/types/captionlayout",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "CaptionLayout",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "captionlayout",
+    "title": "Type alias: CaptionLayout",
+    "sidebar_label": "CaptionLayout",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: YearsDropdownProps",
+    "permalink": "/api/interfaces/yearsdropdownprops"
+  },
+  "next": {
+    "title": "Type alias: ClassNames",
+    "permalink": "/api/types/classnames"
+  }
+}

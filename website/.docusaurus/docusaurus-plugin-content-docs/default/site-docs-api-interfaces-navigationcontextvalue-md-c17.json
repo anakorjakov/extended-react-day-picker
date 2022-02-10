@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/navigationcontextvalue",
+  "id": "api/interfaces/navigationcontextvalue",
+  "isDocsHomePage": false,
+  "title": "Interface: NavigationContextValue",
+  "description": "Represents the value of the NavigationContext.",
+  "source": "@site/docs/api/interfaces/navigationcontextvalue.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/navigationcontextvalue",
+  "permalink": "/api/interfaces/navigationcontextvalue",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "NavigationContextValue",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "navigationcontextvalue",
+    "title": "Interface: NavigationContextValue",
+    "sidebar_label": "NavigationContextValue",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: MonthsDropdownProps",
+    "permalink": "/api/interfaces/monthsdropdownprops"
+  },
+  "next": {
+    "title": "Interface: NavigationProps",
+    "permalink": "/api/interfaces/navigationprops"
+  }
+}

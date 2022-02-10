@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/modifierstatus",
+  "id": "api/types/modifierstatus",
+  "isDocsHomePage": false,
+  "title": "Type alias: ModifierStatus",
+  "description": "Ƭ ModifierStatus: Record",
+  "source": "@site/docs/api/types/modifierstatus.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/modifierstatus",
+  "permalink": "/api/types/modifierstatus",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "ModifierStatus",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "modifierstatus",
+    "title": "Type alias: ModifierStatus",
+    "sidebar_label": "ModifierStatus",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: Modifiers",
+    "permalink": "/api/types/modifiers"
+  },
+  "next": {
+    "title": "Type alias: ModifierStyles",
+    "permalink": "/api/types/modifierstyles"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/variables/focuscontext",
+  "id": "api/variables/focuscontext",
+  "isDocsHomePage": false,
+  "title": "Variable: FocusContext",
+  "description": "• Const FocusContext: Context",
+  "source": "@site/docs/api/variables/focuscontext.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/focuscontext",
+  "permalink": "/api/variables/focuscontext",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "FocusContext",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "focuscontext",
+    "title": "Variable: FocusContext",
+    "sidebar_label": "FocusContext",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Variable: Button",
+    "permalink": "/api/variables/button"
+  },
+  "next": {
+    "title": "Variable: NavigationContext",
+    "permalink": "/api/variables/navigationcontext"
+  }
+}

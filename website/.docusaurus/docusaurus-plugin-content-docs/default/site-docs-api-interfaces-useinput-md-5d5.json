@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/useinput",
+  "id": "api/interfaces/useinput",
+  "isDocsHomePage": false,
+  "title": "Interface: UseInput",
+  "description": "Represent the value returned by useInput.",
+  "source": "@site/docs/api/interfaces/useinput.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/useinput",
+  "permalink": "/api/interfaces/useinput",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "UseInput",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useinput",
+    "title": "Interface: UseInput",
+    "sidebar_label": "UseInput",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: TableProps",
+    "permalink": "/api/interfaces/tableprops"
+  },
+  "next": {
+    "title": "Interface: UseInputDayPickerProps",
+    "permalink": "/api/interfaces/useinputdaypickerprops"
+  }
+}

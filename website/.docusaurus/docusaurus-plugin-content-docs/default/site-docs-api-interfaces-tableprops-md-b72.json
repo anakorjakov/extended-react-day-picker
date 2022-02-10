@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/tableprops",
+  "id": "api/interfaces/tableprops",
+  "isDocsHomePage": false,
+  "title": "Interface: TableProps",
+  "description": "The props for the Table component.",
+  "source": "@site/docs/api/interfaces/tableprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/tableprops",
+  "permalink": "/api/interfaces/tableprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "TableProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "tableprops",
+    "title": "Interface: TableProps",
+    "sidebar_label": "TableProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: SelectSingleEventHandler",
+    "permalink": "/api/interfaces/selectsingleeventhandler"
+  },
+  "next": {
+    "title": "Interface: UseInput",
+    "permalink": "/api/interfaces/useinput"
+  }
+}

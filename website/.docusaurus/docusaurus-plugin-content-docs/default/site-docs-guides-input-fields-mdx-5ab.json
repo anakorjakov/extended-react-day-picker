@@ -1,0 +1,25 @@
+{
+  "unversionedId": "guides/input-fields",
+  "id": "guides/input-fields",
+  "isDocsHomePage": false,
+  "title": "Input Fields",
+  "description": "Some user interfaces displays a date picker working with an input field.",
+  "source": "@site/docs/guides/input-fields.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/input-fields",
+  "permalink": "/guides/input-fields",
+  "version": "current",
+  "frontMatter": {
+    "id": "input-fields",
+    "title": "Input Fields"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Localization",
+    "permalink": "/guides/localization"
+  },
+  "next": {
+    "title": "Custom Components",
+    "permalink": "/guides/custom-components"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/daypickeruncontrolled",
+  "id": "api/interfaces/daypickeruncontrolled",
+  "isDocsHomePage": false,
+  "title": "Interface: DayPickerUncontrolled",
+  "description": "The props for the DayPicker component when using uncontrolled selection mode.",
+  "source": "@site/docs/api/interfaces/daypickeruncontrolled.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/daypickeruncontrolled",
+  "permalink": "/api/interfaces/daypickeruncontrolled",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerUncontrolled",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickeruncontrolled",
+    "title": "Interface: DayPickerUncontrolled",
+    "sidebar_label": "DayPickerUncontrolled",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayPickerSingle",
+    "permalink": "/api/interfaces/daypickersingle"
+  },
+  "next": {
+    "title": "Interface: DayProps",
+    "permalink": "/api/interfaces/dayprops"
+  }
+}

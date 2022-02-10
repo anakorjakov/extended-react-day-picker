@@ -1,0 +1,25 @@
+{
+  "unversionedId": "guides/custom-components",
+  "id": "guides/custom-components",
+  "isDocsHomePage": false,
+  "title": "Custom Components",
+  "description": "Use the components prop to to swap the [internal",
+  "source": "@site/docs/guides/custom-components.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/custom-components",
+  "permalink": "/guides/custom-components",
+  "version": "current",
+  "frontMatter": {
+    "id": "custom-components",
+    "title": "Custom Components"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Input Fields",
+    "permalink": "/guides/input-fields"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/api"
+  }
+}

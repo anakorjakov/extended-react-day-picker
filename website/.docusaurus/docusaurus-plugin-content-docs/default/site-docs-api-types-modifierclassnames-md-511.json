@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/modifierclassnames",
+  "id": "api/types/modifierclassnames",
+  "isDocsHomePage": false,
+  "title": "Type alias: ModifierClassNames",
+  "description": "Ƭ ModifierClassNames: Record",
+  "source": "@site/docs/api/types/modifierclassnames.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/modifierclassnames",
+  "permalink": "/api/types/modifierclassnames",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "ModifierClassNames",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "modifierclassnames",
+    "title": "Type alias: ModifierClassNames",
+    "sidebar_label": "ModifierClassNames",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: Modifier",
+    "permalink": "/api/types/modifier"
+  },
+  "next": {
+    "title": "Type alias: Modifiers",
+    "permalink": "/api/types/modifiers"
+  }
+}

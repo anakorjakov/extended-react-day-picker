@@ -1,0 +1,25 @@
+{
+  "unversionedId": "basics/styling",
+  "id": "basics/styling",
+  "isDocsHomePage": false,
+  "title": "Styling DayPicker",
+  "description": "Style via CSS",
+  "source": "@site/docs/basics/styling.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/styling",
+  "permalink": "/basics/styling",
+  "version": "current",
+  "frontMatter": {
+    "id": "styling",
+    "title": "Styling DayPicker"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Selecting Days",
+    "permalink": "/basics/selecting-days"
+  },
+  "next": {
+    "title": "Modifiers",
+    "permalink": "/guides/modifiers"
+  }
+}

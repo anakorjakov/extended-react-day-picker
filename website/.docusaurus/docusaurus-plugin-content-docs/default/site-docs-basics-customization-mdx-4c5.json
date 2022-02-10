@@ -1,0 +1,25 @@
+{
+  "unversionedId": "basics/customization",
+  "id": "basics/customization",
+  "isDocsHomePage": false,
+  "title": "Customization",
+  "description": "Multiple months",
+  "source": "@site/docs/basics/customization.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/customization",
+  "permalink": "/basics/customization",
+  "version": "current",
+  "frontMatter": {
+    "id": "customization",
+    "title": "Customization"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Navigating Months",
+    "permalink": "/basics/navigation"
+  },
+  "next": {
+    "title": "Selecting Days",
+    "permalink": "/basics/selecting-days"
+  }
+}

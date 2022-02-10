@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdatetype",
+  "id": "api/functions/isdatetype",
+  "isDocsHomePage": false,
+  "title": "Function: isDateType",
+  "description": "▸ isDateType(value): value is Date",
+  "source": "@site/docs/api/functions/isdatetype.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdatetype",
+  "permalink": "/api/functions/isdatetype",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDateType",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdatetype",
+    "title": "Function: isDateType",
+    "sidebar_label": "isDateType",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDateRange",
+    "permalink": "/api/functions/isdaterange"
+  },
+  "next": {
+    "title": "Function: isDayOfWeekType",
+    "permalink": "/api/functions/isdayofweektype"
+  }
+}

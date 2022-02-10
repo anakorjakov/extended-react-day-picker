@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/selectrangemodifiers",
+  "id": "api/types/selectrangemodifiers",
+  "isDocsHomePage": false,
+  "title": "Type alias: SelectRangeModifiers",
+  "description": "Ƭ SelectRangeModifiers: Pick",
+  "source": "@site/docs/api/types/selectrangemodifiers.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/selectrangemodifiers",
+  "permalink": "/api/types/selectrangemodifiers",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectRangeModifiers",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectrangemodifiers",
+    "title": "Type alias: SelectRangeModifiers",
+    "sidebar_label": "SelectRangeModifiers",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: SelectRangeEventHandler",
+    "permalink": "/api/types/selectrangeeventhandler"
+  },
+  "next": {
+    "title": "Type alias: SelectSingleModifiers",
+    "permalink": "/api/types/selectsinglemodifiers"
+  }
+}

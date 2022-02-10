@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/variables/button",
+  "id": "api/variables/button",
+  "isDocsHomePage": false,
+  "title": "Variable: Button",
+  "description": "• Const Button: ForwardRefExoticComponent & RefAttributes\\>",
+  "source": "@site/docs/api/variables/button.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/button",
+  "permalink": "/api/variables/button",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Button",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "button",
+    "title": "Variable: Button",
+    "sidebar_label": "Button",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: WeekNumberLabelFormatter",
+    "permalink": "/api/types/weeknumberlabelformatter"
+  },
+  "next": {
+    "title": "Variable: FocusContext",
+    "permalink": "/api/variables/focuscontext"
+  }
+}

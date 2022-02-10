@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/weeknumber",
+  "id": "api/functions/weeknumber",
+  "isDocsHomePage": false,
+  "title": "Function: WeekNumber",
+  "description": "▸ WeekNumber(props): JSX.Element",
+  "source": "@site/docs/api/functions/weeknumber.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/weeknumber",
+  "permalink": "/api/functions/weeknumber",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "WeekNumber",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "weeknumber",
+    "title": "Function: WeekNumber",
+    "sidebar_label": "WeekNumber",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useSelectSingle",
+    "permalink": "/api/functions/useselectsingle"
+  },
+  "next": {
+    "title": "Function: YearsDropdown",
+    "permalink": "/api/functions/yearsdropdown"
+  }
+}

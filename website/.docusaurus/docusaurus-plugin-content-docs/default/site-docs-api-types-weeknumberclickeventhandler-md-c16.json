@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/weeknumberclickeventhandler",
+  "id": "api/types/weeknumberclickeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: WeekNumberClickEventHandler",
+  "description": "Ƭ WeekNumberClickEventHandler number, dates React.MouseEvent) => void",
+  "source": "@site/docs/api/types/weeknumberclickeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/weeknumberclickeventhandler",
+  "permalink": "/api/types/weeknumberclickeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "WeekNumberClickEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "weeknumberclickeventhandler",
+    "title": "Type alias: WeekNumberClickEventHandler",
+    "sidebar_label": "WeekNumberClickEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: WeekdayLabelFormatter",
+    "permalink": "/api/types/weekdaylabelformatter"
+  },
+  "next": {
+    "title": "Type alias: WeekNumberFormatter",
+    "permalink": "/api/types/weeknumberformatter"
+  }
+}

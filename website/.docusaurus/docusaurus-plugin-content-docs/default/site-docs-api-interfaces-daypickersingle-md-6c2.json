@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/daypickersingle",
+  "id": "api/interfaces/daypickersingle",
+  "isDocsHomePage": false,
+  "title": "Interface: DayPickerSingle",
+  "description": "The props for the DayPicker component when using single selection mode.",
+  "source": "@site/docs/api/interfaces/daypickersingle.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/daypickersingle",
+  "permalink": "/api/interfaces/daypickersingle",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerSingle",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickersingle",
+    "title": "Interface: DayPickerSingle",
+    "sidebar_label": "DayPickerSingle",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayPickerRange",
+    "permalink": "/api/interfaces/daypickerrange"
+  },
+  "next": {
+    "title": "Interface: DayPickerUncontrolled",
+    "permalink": "/api/interfaces/daypickeruncontrolled"
+  }
+}

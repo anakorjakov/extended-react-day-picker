@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/rowprops",
+  "id": "api/interfaces/rowprops",
+  "isDocsHomePage": false,
+  "title": "Interface: RowProps",
+  "description": "The props for the Row component.",
+  "source": "@site/docs/api/interfaces/rowprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/rowprops",
+  "permalink": "/api/interfaces/rowprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "RowProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "rowprops",
+    "title": "Interface: RowProps",
+    "sidebar_label": "RowProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: NavigationProps",
+    "permalink": "/api/interfaces/navigationprops"
+  },
+  "next": {
+    "title": "Interface: SelectMultipleContextValue",
+    "permalink": "/api/interfaces/selectmultiplecontextvalue"
+  }
+}

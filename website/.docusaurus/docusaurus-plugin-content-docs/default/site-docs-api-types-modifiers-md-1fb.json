@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/modifiers",
+  "id": "api/types/modifiers",
+  "isDocsHomePage": false,
+  "title": "Type alias: Modifiers",
+  "description": "Ƭ Modifiers: Record & Record",
+  "source": "@site/docs/api/types/modifiers.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/modifiers",
+  "permalink": "/api/types/modifiers",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Modifiers",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "modifiers",
+    "title": "Type alias: Modifiers",
+    "sidebar_label": "Modifiers",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: ModifierClassNames",
+    "permalink": "/api/types/modifierclassnames"
+  },
+  "next": {
+    "title": "Type alias: ModifierStatus",
+    "permalink": "/api/types/modifierstatus"
+  }
+}

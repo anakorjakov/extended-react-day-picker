@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/dropdown",
+  "id": "api/functions/dropdown",
+  "isDocsHomePage": false,
+  "title": "Function: Dropdown",
+  "description": "▸ Dropdown(props): JSX.Element",
+  "source": "@site/docs/api/functions/dropdown.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/dropdown",
+  "permalink": "/api/functions/dropdown",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Dropdown",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dropdown",
+    "title": "Function: Dropdown",
+    "sidebar_label": "Dropdown",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: DayPicker",
+    "permalink": "/api/functions/daypicker"
+  },
+  "next": {
+    "title": "Function: FocusProvider",
+    "permalink": "/api/functions/focusprovider"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/navigationprovider",
+  "id": "api/functions/navigationprovider",
+  "isDocsHomePage": false,
+  "title": "Function: NavigationProvider",
+  "description": "▸ NavigationProvider(props): JSX.Element",
+  "source": "@site/docs/api/functions/navigationprovider.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/navigationprovider",
+  "permalink": "/api/functions/navigationprovider",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "NavigationProvider",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "navigationprovider",
+    "title": "Function: NavigationProvider",
+    "sidebar_label": "NavigationProvider",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Navigation",
+    "permalink": "/api/functions/navigation"
+  },
+  "next": {
+    "title": "Function: Root",
+    "permalink": "/api/functions/root"
+  }
+}

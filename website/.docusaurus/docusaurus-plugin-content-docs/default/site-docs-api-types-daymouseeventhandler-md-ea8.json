@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daymouseeventhandler",
+  "id": "api/types/daymouseeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayMouseEventHandler",
+  "description": "Ƭ DayMouseEventHandler Date, modifiers React.MouseEvent) => void",
+  "source": "@site/docs/api/types/daymouseeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daymouseeventhandler",
+  "permalink": "/api/types/daymouseeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayMouseEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daymouseeventhandler",
+    "title": "Type alias: DayMouseEventHandler",
+    "sidebar_label": "DayMouseEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayLabelFormatter",
+    "permalink": "/api/types/daylabelformatter"
+  },
+  "next": {
+    "title": "Type alias: DayOfWeek",
+    "permalink": "/api/types/dayofweek"
+  }
+}

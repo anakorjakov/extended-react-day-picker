@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/formatters",
+  "id": "guides/formatters",
+  "isDocsHomePage": false,
+  "title": "Formatters",
+  "description": "Use the formatters to change the default format for the day, the weekday",
+  "source": "@site/docs/guides/formatters.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/formatters",
+  "permalink": "/guides/formatters",
+  "version": "current",
+  "frontMatter": {
+    "id": "formatters",
+    "title": "Formatters",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Custom Selections",
+    "permalink": "/guides/custom-selections"
+  },
+  "next": {
+    "title": "Localization",
+    "permalink": "/guides/localization"
+  }
+}

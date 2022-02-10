@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/table",
+  "id": "api/functions/table",
+  "isDocsHomePage": false,
+  "title": "Function: Table",
+  "description": "▸ Table(props): JSX.Element",
+  "source": "@site/docs/api/functions/table.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/table",
+  "permalink": "/api/functions/table",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Table",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "table",
+    "title": "Function: Table",
+    "sidebar_label": "Table",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: SelectSingleProvider",
+    "permalink": "/api/functions/selectsingleprovider"
+  },
+  "next": {
+    "title": "Function: useDay",
+    "permalink": "/api/functions/useday"
+  }
+}

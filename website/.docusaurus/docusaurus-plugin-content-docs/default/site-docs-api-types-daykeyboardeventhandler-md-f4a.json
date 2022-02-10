@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daykeyboardeventhandler",
+  "id": "api/types/daykeyboardeventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayKeyboardEventHandler",
+  "description": "Ƭ DayKeyboardEventHandler Date, modifiers React.KeyboardEvent) => void",
+  "source": "@site/docs/api/types/daykeyboardeventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daykeyboardeventhandler",
+  "permalink": "/api/types/daykeyboardeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayKeyboardEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daykeyboardeventhandler",
+    "title": "Type alias: DayKeyboardEventHandler",
+    "sidebar_label": "DayKeyboardEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayFocusEventHandler",
+    "permalink": "/api/types/dayfocuseventhandler"
+  },
+  "next": {
+    "title": "Type alias: DayLabelFormatter",
+    "permalink": "/api/types/daylabelformatter"
+  }
+}

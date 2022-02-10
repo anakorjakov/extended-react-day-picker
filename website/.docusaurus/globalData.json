@@ -1,0 +1,697 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/functions/caption",
+              "path": "/api/functions/caption",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/captionlabel",
+              "path": "/api/functions/captionlabel",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/contextprovider",
+              "path": "/api/functions/contextprovider",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/day",
+              "path": "/api/functions/day",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/daycontent",
+              "path": "/api/functions/daycontent",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/daypicker",
+              "path": "/api/functions/daypicker",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/dropdown",
+              "path": "/api/functions/dropdown",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/focusprovider",
+              "path": "/api/functions/focusprovider",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/footer",
+              "path": "/api/functions/footer",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/head",
+              "path": "/api/functions/head",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/icondropdown",
+              "path": "/api/functions/icondropdown",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/iconnext",
+              "path": "/api/functions/iconnext",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/iconprevious",
+              "path": "/api/functions/iconprevious",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isarrayofdates",
+              "path": "/api/functions/isarrayofdates",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdateaftertype",
+              "path": "/api/functions/isdateaftertype",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdatebeforetype",
+              "path": "/api/functions/isdatebeforetype",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdateinterval",
+              "path": "/api/functions/isdateinterval",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdaterange",
+              "path": "/api/functions/isdaterange",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdatetype",
+              "path": "/api/functions/isdatetype",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdayofweektype",
+              "path": "/api/functions/isdayofweektype",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdaypickermultiple",
+              "path": "/api/functions/isdaypickermultiple",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdaypickerrange",
+              "path": "/api/functions/isdaypickerrange",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdaypickersingle",
+              "path": "/api/functions/isdaypickersingle",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/isdaypickeruncontrolled",
+              "path": "/api/functions/isdaypickeruncontrolled",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/monthsdropdown",
+              "path": "/api/functions/monthsdropdown",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/navigation",
+              "path": "/api/functions/navigation",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/navigationprovider",
+              "path": "/api/functions/navigationprovider",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/root",
+              "path": "/api/functions/root",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/row",
+              "path": "/api/functions/row",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/selectmultipleprovider",
+              "path": "/api/functions/selectmultipleprovider",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/selectrangeprovider",
+              "path": "/api/functions/selectrangeprovider",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/selectsingleprovider",
+              "path": "/api/functions/selectsingleprovider",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/table",
+              "path": "/api/functions/table",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/useday",
+              "path": "/api/functions/useday",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/usedaypicker",
+              "path": "/api/functions/usedaypicker",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/usefocus",
+              "path": "/api/functions/usefocus",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/useinput",
+              "path": "/api/functions/useinput",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/usemodifiers",
+              "path": "/api/functions/usemodifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/usenavigation",
+              "path": "/api/functions/usenavigation",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/useselectmultiple",
+              "path": "/api/functions/useselectmultiple",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/useselectrange",
+              "path": "/api/functions/useselectrange",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/useselectsingle",
+              "path": "/api/functions/useselectsingle",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/weeknumber",
+              "path": "/api/functions/weeknumber",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/functions/yearsdropdown",
+              "path": "/api/functions/yearsdropdown",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/index",
+              "path": "/api",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/captionlabelprops",
+              "path": "/api/interfaces/captionlabelprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/captionprops",
+              "path": "/api/interfaces/captionprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/components",
+              "path": "/api/interfaces/components",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/daycontentprops",
+              "path": "/api/interfaces/daycontentprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/daypickerbase",
+              "path": "/api/interfaces/daypickerbase",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/daypickermultiple",
+              "path": "/api/interfaces/daypickermultiple",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/daypickerrange",
+              "path": "/api/interfaces/daypickerrange",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/daypickersingle",
+              "path": "/api/interfaces/daypickersingle",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/daypickeruncontrolled",
+              "path": "/api/interfaces/daypickeruncontrolled",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/dayprops",
+              "path": "/api/interfaces/dayprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/dropdownprops",
+              "path": "/api/interfaces/dropdownprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/monthsdropdownprops",
+              "path": "/api/interfaces/monthsdropdownprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/navigationcontextvalue",
+              "path": "/api/interfaces/navigationcontextvalue",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/navigationprops",
+              "path": "/api/interfaces/navigationprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/rowprops",
+              "path": "/api/interfaces/rowprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/selectmultiplecontextvalue",
+              "path": "/api/interfaces/selectmultiplecontextvalue",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/selectrangecontextvalue",
+              "path": "/api/interfaces/selectrangecontextvalue",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/selectsinglecontextvalue",
+              "path": "/api/interfaces/selectsinglecontextvalue",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/selectsingleeventhandler",
+              "path": "/api/interfaces/selectsingleeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/tableprops",
+              "path": "/api/interfaces/tableprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/useinput",
+              "path": "/api/interfaces/useinput",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/useinputdaypickerprops",
+              "path": "/api/interfaces/useinputdaypickerprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/useinputfieldprops",
+              "path": "/api/interfaces/useinputfieldprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/useinputoptions",
+              "path": "/api/interfaces/useinputoptions",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/weeknumberprops",
+              "path": "/api/interfaces/weeknumberprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/interfaces/yearsdropdownprops",
+              "path": "/api/interfaces/yearsdropdownprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/captionlayout",
+              "path": "/api/types/captionlayout",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/classnames",
+              "path": "/api/types/classnames",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/contextproviderprops",
+              "path": "/api/types/contextproviderprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/custommodifiers",
+              "path": "/api/types/custommodifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/dateafter",
+              "path": "/api/types/dateafter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/datebefore",
+              "path": "/api/types/datebefore",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/dateformatter",
+              "path": "/api/types/dateformatter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/dateinterval",
+              "path": "/api/types/dateinterval",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daterange",
+              "path": "/api/types/daterange",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/dayclickeventhandler",
+              "path": "/api/types/dayclickeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/dayfocuseventhandler",
+              "path": "/api/types/dayfocuseventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daykeyboardeventhandler",
+              "path": "/api/types/daykeyboardeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daylabelformatter",
+              "path": "/api/types/daylabelformatter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daymouseeventhandler",
+              "path": "/api/types/daymouseeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/dayofweek",
+              "path": "/api/types/dayofweek",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daypickerprops",
+              "path": "/api/types/daypickerprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daypickerselectionprops",
+              "path": "/api/types/daypickerselectionprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/daytoucheventhandler",
+              "path": "/api/types/daytoucheventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/focuscontextvalue",
+              "path": "/api/types/focuscontextvalue",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/formatters",
+              "path": "/api/types/formatters",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/internalmodifier",
+              "path": "/api/types/internalmodifier",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/labels",
+              "path": "/api/types/labels",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/matcher",
+              "path": "/api/types/matcher",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/modifier",
+              "path": "/api/types/modifier",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/modifierclassnames",
+              "path": "/api/types/modifierclassnames",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/modifiers",
+              "path": "/api/types/modifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/modifierstatus",
+              "path": "/api/types/modifierstatus",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/modifierstyles",
+              "path": "/api/types/modifierstyles",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/monthchangeeventhandler",
+              "path": "/api/types/monthchangeeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/navbuttonlabelformatter",
+              "path": "/api/types/navbuttonlabelformatter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/selectmultipleeventhandler",
+              "path": "/api/types/selectmultipleeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/selectmultiplemodifiers",
+              "path": "/api/types/selectmultiplemodifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/selectrangeeventhandler",
+              "path": "/api/types/selectrangeeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/selectrangemodifiers",
+              "path": "/api/types/selectrangemodifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/selectsinglemodifiers",
+              "path": "/api/types/selectsinglemodifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/styledcomponentprops",
+              "path": "/api/types/styledcomponentprops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/styledelement",
+              "path": "/api/types/styledelement",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/styles",
+              "path": "/api/types/styles",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/useday",
+              "path": "/api/types/useday",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/weekdaylabelformatter",
+              "path": "/api/types/weekdaylabelformatter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/weeknumberclickeventhandler",
+              "path": "/api/types/weeknumberclickeventhandler",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/weeknumberformatter",
+              "path": "/api/types/weeknumberformatter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/types/weeknumberlabelformatter",
+              "path": "/api/types/weeknumberlabelformatter",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/variables/button",
+              "path": "/api/variables/button",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/variables/focuscontext",
+              "path": "/api/variables/focuscontext",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/variables/navigationcontext",
+              "path": "/api/variables/navigationcontext",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/variables/selectmultiplecontext",
+              "path": "/api/variables/selectmultiplecontext",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/variables/selectrangecontext",
+              "path": "/api/variables/selectrangecontext",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "api/variables/selectsinglecontext",
+              "path": "/api/variables/selectsinglecontext",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basics/customization",
+              "path": "/basics/customization",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basics/navigation",
+              "path": "/basics/navigation",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basics/selecting-days",
+              "path": "/basics/selecting-days",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "basics/styling",
+              "path": "/basics/styling",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "changelog",
+              "path": "/changelog",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/contributing",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/custom-components",
+              "path": "/guides/custom-components",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/custom-selections",
+              "path": "/guides/custom-selections",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/formatters",
+              "path": "/guides/formatters",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/input-fields",
+              "path": "/guides/input-fields",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/localization",
+              "path": "/guides/localization",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/modifiers",
+              "path": "/guides/modifiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "guides/upgrading",
+              "path": "/guides/upgrading"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "license",
+              "path": "/license",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "start",
+              "path": "/start",
+              "sidebar": "sidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

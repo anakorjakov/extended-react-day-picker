@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/selectsinglemodifiers",
+  "id": "api/types/selectsinglemodifiers",
+  "isDocsHomePage": false,
+  "title": "Type alias: SelectSingleModifiers",
+  "description": "Ƭ SelectSingleModifiers: Pick",
+  "source": "@site/docs/api/types/selectsinglemodifiers.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/selectsinglemodifiers",
+  "permalink": "/api/types/selectsinglemodifiers",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectSingleModifiers",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectsinglemodifiers",
+    "title": "Type alias: SelectSingleModifiers",
+    "sidebar_label": "SelectSingleModifiers",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: SelectRangeModifiers",
+    "permalink": "/api/types/selectrangemodifiers"
+  },
+  "next": {
+    "title": "Type alias: StyledComponentProps",
+    "permalink": "/api/types/styledcomponentprops"
+  }
+}

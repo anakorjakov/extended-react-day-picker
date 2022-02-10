@@ -1,0 +1,25 @@
+{
+  "unversionedId": "basics/selecting-days",
+  "id": "basics/selecting-days",
+  "isDocsHomePage": false,
+  "title": "Selecting Days",
+  "description": "DayPicker supports four selection modes:",
+  "source": "@site/docs/basics/selecting-days.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/selecting-days",
+  "permalink": "/basics/selecting-days",
+  "version": "current",
+  "frontMatter": {
+    "id": "selecting-days",
+    "title": "Selecting Days"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Customization",
+    "permalink": "/basics/customization"
+  },
+  "next": {
+    "title": "Styling DayPicker",
+    "permalink": "/basics/styling"
+  }
+}

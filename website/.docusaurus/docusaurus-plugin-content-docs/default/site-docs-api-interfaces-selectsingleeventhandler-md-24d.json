@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/selectsingleeventhandler",
+  "id": "api/interfaces/selectsingleeventhandler",
+  "isDocsHomePage": false,
+  "title": "Interface: SelectSingleEventHandler",
+  "description": "Callable",
+  "source": "@site/docs/api/interfaces/selectsingleeventhandler.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/selectsingleeventhandler",
+  "permalink": "/api/interfaces/selectsingleeventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectSingleEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectsingleeventhandler",
+    "title": "Interface: SelectSingleEventHandler",
+    "sidebar_label": "SelectSingleEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: SelectSingleContextValue",
+    "permalink": "/api/interfaces/selectsinglecontextvalue"
+  },
+  "next": {
+    "title": "Interface: TableProps",
+    "permalink": "/api/interfaces/tableprops"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "license",
+  "id": "license",
+  "isDocsHomePage": false,
+  "title": "License",
+  "description": "The MIT License (MIT)",
+  "source": "@site/docs/license.mdx",
+  "sourceDirName": ".",
+  "slug": "/license",
+  "permalink": "/license",
+  "version": "current",
+  "frontMatter": {
+    "id": "license",
+    "title": "License",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/contributing"
+  }
+}

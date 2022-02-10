@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/selectsingleprovider",
+  "id": "api/functions/selectsingleprovider",
+  "isDocsHomePage": false,
+  "title": "Function: SelectSingleProvider",
+  "description": "▸ SelectSingleProvider(__namedParameters): JSX.Element",
+  "source": "@site/docs/api/functions/selectsingleprovider.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/selectsingleprovider",
+  "permalink": "/api/functions/selectsingleprovider",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectSingleProvider",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectsingleprovider",
+    "title": "Function: SelectSingleProvider",
+    "sidebar_label": "SelectSingleProvider",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: SelectRangeProvider",
+    "permalink": "/api/functions/selectrangeprovider"
+  },
+  "next": {
+    "title": "Function: Table",
+    "permalink": "/api/functions/table"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/dropdownprops",
+  "id": "api/interfaces/dropdownprops",
+  "isDocsHomePage": false,
+  "title": "Interface: DropdownProps",
+  "description": "The props for the Dropdown component.",
+  "source": "@site/docs/api/interfaces/dropdownprops.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/dropdownprops",
+  "permalink": "/api/interfaces/dropdownprops",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DropdownProps",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dropdownprops",
+    "title": "Interface: DropdownProps",
+    "sidebar_label": "DropdownProps",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayProps",
+    "permalink": "/api/interfaces/dayprops"
+  },
+  "next": {
+    "title": "Interface: MonthsDropdownProps",
+    "permalink": "/api/interfaces/monthsdropdownprops"
+  }
+}

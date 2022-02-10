@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/useselectsingle",
+  "id": "api/functions/useselectsingle",
+  "isDocsHomePage": false,
+  "title": "Function: useSelectSingle",
+  "description": "▸ useSelectSingle(): SelectSingleContextValue",
+  "source": "@site/docs/api/functions/useselectsingle.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/useselectsingle",
+  "permalink": "/api/functions/useselectsingle",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useSelectSingle",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useselectsingle",
+    "title": "Function: useSelectSingle",
+    "sidebar_label": "useSelectSingle",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useSelectRange",
+    "permalink": "/api/functions/useselectrange"
+  },
+  "next": {
+    "title": "Function: WeekNumber",
+    "permalink": "/api/functions/weeknumber"
+  }
+}

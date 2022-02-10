@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/internalmodifier",
+  "id": "api/types/internalmodifier",
+  "isDocsHomePage": false,
+  "title": "Type alias: InternalModifier",
+  "description": "Ƭ InternalModifier: `\"selected\" \\| \"disabled\" \\| \"hidden\" \\| \"rangestart\" \\| \"rangeend\" \\| \"range_middle\"`",
+  "source": "@site/docs/api/types/internalmodifier.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/internalmodifier",
+  "permalink": "/api/types/internalmodifier",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "InternalModifier",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "internalmodifier",
+    "title": "Type alias: InternalModifier",
+    "sidebar_label": "InternalModifier",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: Formatters",
+    "permalink": "/api/types/formatters"
+  },
+  "next": {
+    "title": "Type alias: Labels",
+    "permalink": "/api/types/labels"
+  }
+}

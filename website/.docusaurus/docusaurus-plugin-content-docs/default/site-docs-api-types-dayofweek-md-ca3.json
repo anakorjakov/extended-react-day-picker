@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/dayofweek",
+  "id": "api/types/dayofweek",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayOfWeek",
+  "description": "Ƭ DayOfWeek: Object",
+  "source": "@site/docs/api/types/dayofweek.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/dayofweek",
+  "permalink": "/api/types/dayofweek",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayOfWeek",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "dayofweek",
+    "title": "Type alias: DayOfWeek",
+    "sidebar_label": "DayOfWeek",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayMouseEventHandler",
+    "permalink": "/api/types/daymouseeventhandler"
+  },
+  "next": {
+    "title": "Type alias: DayPickerProps",
+    "permalink": "/api/types/daypickerprops"
+  }
+}

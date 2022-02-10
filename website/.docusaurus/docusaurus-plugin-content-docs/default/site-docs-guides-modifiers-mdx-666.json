@@ -1,0 +1,25 @@
+{
+  "unversionedId": "guides/modifiers",
+  "id": "guides/modifiers",
+  "isDocsHomePage": false,
+  "title": "Modifiers",
+  "description": "A modifier represents different state or style of a days shown in the",
+  "source": "@site/docs/guides/modifiers.mdx",
+  "sourceDirName": "guides",
+  "slug": "/guides/modifiers",
+  "permalink": "/guides/modifiers",
+  "version": "current",
+  "frontMatter": {
+    "id": "modifiers",
+    "title": "Modifiers"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Styling DayPicker",
+    "permalink": "/basics/styling"
+  },
+  "next": {
+    "title": "Custom Selections",
+    "permalink": "/guides/custom-selections"
+  }
+}

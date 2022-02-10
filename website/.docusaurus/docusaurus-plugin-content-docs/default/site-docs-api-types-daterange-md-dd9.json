@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daterange",
+  "id": "api/types/daterange",
+  "isDocsHomePage": false,
+  "title": "Type alias: DateRange",
+  "description": "Ƭ DateRange: Object",
+  "source": "@site/docs/api/types/daterange.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daterange",
+  "permalink": "/api/types/daterange",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DateRange",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daterange",
+    "title": "Type alias: DateRange",
+    "sidebar_label": "DateRange",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DateInterval",
+    "permalink": "/api/types/dateinterval"
+  },
+  "next": {
+    "title": "Type alias: DayClickEventHandler",
+    "permalink": "/api/types/dayclickeventhandler"
+  }
+}

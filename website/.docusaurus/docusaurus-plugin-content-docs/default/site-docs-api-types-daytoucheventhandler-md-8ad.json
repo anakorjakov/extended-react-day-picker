@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/daytoucheventhandler",
+  "id": "api/types/daytoucheventhandler",
+  "isDocsHomePage": false,
+  "title": "Type alias: DayTouchEventHandler",
+  "description": "Ƭ DayTouchEventHandler Date, modifiers React.TouchEvent) => void",
+  "source": "@site/docs/api/types/daytoucheventhandler.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/daytoucheventhandler",
+  "permalink": "/api/types/daytoucheventhandler",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayTouchEventHandler",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daytoucheventhandler",
+    "title": "Type alias: DayTouchEventHandler",
+    "sidebar_label": "DayTouchEventHandler",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: DayPickerSelectionProps",
+    "permalink": "/api/types/daypickerselectionprops"
+  },
+  "next": {
+    "title": "Type alias: FocusContextValue",
+    "permalink": "/api/types/focuscontextvalue"
+  }
+}

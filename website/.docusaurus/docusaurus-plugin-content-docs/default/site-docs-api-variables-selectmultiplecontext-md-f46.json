@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/variables/selectmultiplecontext",
+  "id": "api/variables/selectmultiplecontext",
+  "isDocsHomePage": false,
+  "title": "Variable: SelectMultipleContext",
+  "description": "• Const SelectMultipleContext: Context",
+  "source": "@site/docs/api/variables/selectmultiplecontext.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/selectmultiplecontext",
+  "permalink": "/api/variables/selectmultiplecontext",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectMultipleContext",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectmultiplecontext",
+    "title": "Variable: SelectMultipleContext",
+    "sidebar_label": "SelectMultipleContext",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Variable: NavigationContext",
+    "permalink": "/api/variables/navigationcontext"
+  },
+  "next": {
+    "title": "Variable: SelectRangeContext",
+    "permalink": "/api/variables/selectrangecontext"
+  }
+}

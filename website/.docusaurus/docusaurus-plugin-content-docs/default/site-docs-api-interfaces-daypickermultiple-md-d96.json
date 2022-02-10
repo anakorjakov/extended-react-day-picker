@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/interfaces/daypickermultiple",
+  "id": "api/interfaces/daypickermultiple",
+  "isDocsHomePage": false,
+  "title": "Interface: DayPickerMultiple",
+  "description": "The props for the DayPicker component when using multiple selection mode.",
+  "source": "@site/docs/api/interfaces/daypickermultiple.md",
+  "sourceDirName": "api/interfaces",
+  "slug": "/api/interfaces/daypickermultiple",
+  "permalink": "/api/interfaces/daypickermultiple",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "DayPickerMultiple",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "daypickermultiple",
+    "title": "Interface: DayPickerMultiple",
+    "sidebar_label": "DayPickerMultiple",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Interface: DayPickerBase",
+    "permalink": "/api/interfaces/daypickerbase"
+  },
+  "next": {
+    "title": "Interface: DayPickerRange",
+    "permalink": "/api/interfaces/daypickerrange"
+  }
+}

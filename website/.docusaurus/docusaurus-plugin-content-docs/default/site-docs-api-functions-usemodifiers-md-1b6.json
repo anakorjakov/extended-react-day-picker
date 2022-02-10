@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/usemodifiers",
+  "id": "api/functions/usemodifiers",
+  "isDocsHomePage": false,
+  "title": "Function: useModifiers",
+  "description": "▸ useModifiers(date): UseModifiers",
+  "source": "@site/docs/api/functions/usemodifiers.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/usemodifiers",
+  "permalink": "/api/functions/usemodifiers",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useModifiers",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "usemodifiers",
+    "title": "Function: useModifiers",
+    "sidebar_label": "useModifiers",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useInput",
+    "permalink": "/api/functions/useinput"
+  },
+  "next": {
+    "title": "Function: useNavigation",
+    "permalink": "/api/functions/usenavigation"
+  }
+}

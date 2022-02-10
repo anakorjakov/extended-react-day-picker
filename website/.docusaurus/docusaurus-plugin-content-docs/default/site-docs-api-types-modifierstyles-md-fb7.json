@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/types/modifierstyles",
+  "id": "api/types/modifierstyles",
+  "isDocsHomePage": false,
+  "title": "Type alias: ModifierStyles",
+  "description": "Ƭ ModifierStyles: Record",
+  "source": "@site/docs/api/types/modifierstyles.md",
+  "sourceDirName": "api/types",
+  "slug": "/api/types/modifierstyles",
+  "permalink": "/api/types/modifierstyles",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "ModifierStyles",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "modifierstyles",
+    "title": "Type alias: ModifierStyles",
+    "sidebar_label": "ModifierStyles",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Type alias: ModifierStatus",
+    "permalink": "/api/types/modifierstatus"
+  },
+  "next": {
+    "title": "Type alias: MonthChangeEventHandler",
+    "permalink": "/api/types/monthchangeeventhandler"
+  }
+}

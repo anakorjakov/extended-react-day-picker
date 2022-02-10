@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/useselectrange",
+  "id": "api/functions/useselectrange",
+  "isDocsHomePage": false,
+  "title": "Function: useSelectRange",
+  "description": "▸ useSelectRange(): SelectRangeContextValue",
+  "source": "@site/docs/api/functions/useselectrange.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/useselectrange",
+  "permalink": "/api/functions/useselectrange",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useSelectRange",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useselectrange",
+    "title": "Function: useSelectRange",
+    "sidebar_label": "useSelectRange",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useSelectMultiple",
+    "permalink": "/api/functions/useselectmultiple"
+  },
+  "next": {
+    "title": "Function: useSelectSingle",
+    "permalink": "/api/functions/useselectsingle"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/navigation",
+  "id": "api/functions/navigation",
+  "isDocsHomePage": false,
+  "title": "Function: Navigation",
+  "description": "▸ Navigation(props): JSX.Element",
+  "source": "@site/docs/api/functions/navigation.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/navigation",
+  "permalink": "/api/functions/navigation",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "Navigation",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "navigation",
+    "title": "Function: Navigation",
+    "sidebar_label": "Navigation",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: MonthsDropdown",
+    "permalink": "/api/functions/monthsdropdown"
+  },
+  "next": {
+    "title": "Function: NavigationProvider",
+    "permalink": "/api/functions/navigationprovider"
+  }
+}

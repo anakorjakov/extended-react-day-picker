@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/useday",
+  "id": "api/functions/useday",
+  "isDocsHomePage": false,
+  "title": "Function: useDay",
+  "description": "▸ useDay(date, displayMonth, buttonRef): UseDay",
+  "source": "@site/docs/api/functions/useday.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/useday",
+  "permalink": "/api/functions/useday",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useDay",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "useday",
+    "title": "Function: useDay",
+    "sidebar_label": "useDay",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Table",
+    "permalink": "/api/functions/table"
+  },
+  "next": {
+    "title": "Function: useDayPicker",
+    "permalink": "/api/functions/usedaypicker"
+  }
+}

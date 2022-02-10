@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/usedaypicker",
+  "id": "api/functions/usedaypicker",
+  "isDocsHomePage": false,
+  "title": "Function: useDayPicker",
+  "description": "▸ useDayPicker(): DayPickerContextValue",
+  "source": "@site/docs/api/functions/usedaypicker.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/usedaypicker",
+  "permalink": "/api/functions/usedaypicker",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "useDayPicker",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "usedaypicker",
+    "title": "Function: useDayPicker",
+    "sidebar_label": "useDayPicker",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: useDay",
+    "permalink": "/api/functions/useday"
+  },
+  "next": {
+    "title": "Function: useFocus",
+    "permalink": "/api/functions/usefocus"
+  }
+}

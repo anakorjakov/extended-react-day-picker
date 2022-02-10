@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/focusprovider",
+  "id": "api/functions/focusprovider",
+  "isDocsHomePage": false,
+  "title": "Function: FocusProvider",
+  "description": "▸ FocusProvider(__namedParameters): JSX.Element",
+  "source": "@site/docs/api/functions/focusprovider.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/focusprovider",
+  "permalink": "/api/functions/focusprovider",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "FocusProvider",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "focusprovider",
+    "title": "Function: FocusProvider",
+    "sidebar_label": "FocusProvider",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: Dropdown",
+    "permalink": "/api/functions/dropdown"
+  },
+  "next": {
+    "title": "Function: Footer",
+    "permalink": "/api/functions/footer"
+  }
+}

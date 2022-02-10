@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/variables/selectrangecontext",
+  "id": "api/variables/selectrangecontext",
+  "isDocsHomePage": false,
+  "title": "Variable: SelectRangeContext",
+  "description": "• Const SelectRangeContext: Context",
+  "source": "@site/docs/api/variables/selectrangecontext.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/selectrangecontext",
+  "permalink": "/api/variables/selectrangecontext",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectRangeContext",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectrangecontext",
+    "title": "Variable: SelectRangeContext",
+    "sidebar_label": "SelectRangeContext",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Variable: SelectMultipleContext",
+    "permalink": "/api/variables/selectmultiplecontext"
+  },
+  "next": {
+    "title": "Variable: SelectSingleContext",
+    "permalink": "/api/variables/selectsinglecontext"
+  }
+}

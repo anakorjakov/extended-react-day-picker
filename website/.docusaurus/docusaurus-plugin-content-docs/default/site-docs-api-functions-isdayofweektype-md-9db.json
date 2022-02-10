@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/isdayofweektype",
+  "id": "api/functions/isdayofweektype",
+  "isDocsHomePage": false,
+  "title": "Function: isDayOfWeekType",
+  "description": "▸ isDayOfWeekType(value): value is DayOfWeek",
+  "source": "@site/docs/api/functions/isdayofweektype.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/isdayofweektype",
+  "permalink": "/api/functions/isdayofweektype",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "isDayOfWeekType",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "isdayofweektype",
+    "title": "Function: isDayOfWeekType",
+    "sidebar_label": "isDayOfWeekType",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: isDateType",
+    "permalink": "/api/functions/isdatetype"
+  },
+  "next": {
+    "title": "Function: isDayPickerMultiple",
+    "permalink": "/api/functions/isdaypickermultiple"
+  }
+}

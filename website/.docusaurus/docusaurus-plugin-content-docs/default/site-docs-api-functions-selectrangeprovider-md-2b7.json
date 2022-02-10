@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/functions/selectrangeprovider",
+  "id": "api/functions/selectrangeprovider",
+  "isDocsHomePage": false,
+  "title": "Function: SelectRangeProvider",
+  "description": "▸ SelectRangeProvider(__namedParameters): JSX.Element",
+  "source": "@site/docs/api/functions/selectrangeprovider.md",
+  "sourceDirName": "api/functions",
+  "slug": "/api/functions/selectrangeprovider",
+  "permalink": "/api/functions/selectrangeprovider",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectRangeProvider",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectrangeprovider",
+    "title": "Function: SelectRangeProvider",
+    "sidebar_label": "SelectRangeProvider",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Function: SelectMultipleProvider",
+    "permalink": "/api/functions/selectmultipleprovider"
+  },
+  "next": {
+    "title": "Function: SelectSingleProvider",
+    "permalink": "/api/functions/selectsingleprovider"
+  }
+}

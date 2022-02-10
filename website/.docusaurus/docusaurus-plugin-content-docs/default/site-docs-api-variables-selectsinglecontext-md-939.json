@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/variables/selectsinglecontext",
+  "id": "api/variables/selectsinglecontext",
+  "isDocsHomePage": false,
+  "title": "Variable: SelectSingleContext",
+  "description": "• Const SelectSingleContext: Context",
+  "source": "@site/docs/api/variables/selectsinglecontext.md",
+  "sourceDirName": "api/variables",
+  "slug": "/api/variables/selectsinglecontext",
+  "permalink": "/api/variables/selectsinglecontext",
+  "editUrl": null,
+  "version": "current",
+  "sidebar_label": "SelectSingleContext",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "selectsinglecontext",
+    "title": "Variable: SelectSingleContext",
+    "sidebar_label": "SelectSingleContext",
+    "sidebar_position": 0,
+    "custom_edit_url": null
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Variable: SelectRangeContext",
+    "permalink": "/api/variables/selectrangecontext"
+  },
+  "next": {
+    "title": "Function: Caption",
+    "permalink": "/api/functions/caption"
+  }
+}
