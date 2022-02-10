@@ -146,6 +146,8 @@ export interface DayPickerProps {
   weekdaysLong?: string[];
   weekdaysShort?: string[];
   tabIndex?: number;
+  showExtraWeeksNext?: number;
+  showExtraWeeksPrev?: number;
 }
 
 export interface DayPickerInputProps {
