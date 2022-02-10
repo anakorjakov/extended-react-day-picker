@@ -1,7 +1,7 @@
 {
   "name": "extended-react-day-picker",
-  "version": "7.4.10.1",
-  "description": "Flexible date picker component for React. Fork of the react-day-picker",
+  "version": "17.4.11",
+  "description": "Flexible date picker component for React. Fork of the react-day-picker version 7.4.10",
   "browser": "lib/react-day-picker.min.js",
   "main": "build/index.js",
   "types": "types/index.d.ts",
